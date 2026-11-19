@@ -521,20 +521,74 @@
       }
     }
 
-    @media (max-width: 360px) {
+    @media (max-width: 375px) {
       #themeToggleBtn {
         display: none !important;
       }
-      .nav-brand-title {
-        max-width: 42vw;
-        font-size: 0.72rem !important;
+      .header-container {
+        gap: 0.25rem !important;
+        padding-left: 0.4rem !important;
+        padding-right: 0.4rem !important;
       }
       .nav-brand {
-        gap: 0.35rem !important;
+        gap: 0.4rem !important;
+      }
+      .nav-brand-title {
+        max-width: 44vw !important;
+        font-size: 0.76rem !important;
       }
       .nav-book-btn {
+        min-width: 68px;
         padding-left: 0.55rem !important;
         padding-right: 0.55rem !important;
+      }
+      .top-announcement-bar {
+        font-size: 0.68rem !important;
+      }
+      .top-announcement-inner {
+        padding-left: 0.5rem !important;
+        padding-right: 0.5rem !important;
+      }
+    }
+
+    @media (max-width: 320px) {
+      .nav-brand > div:first-child {
+        width: 32px !important;
+        height: 32px !important;
+      }
+      .nav-brand-title {
+        max-width: 40vw !important;
+        font-size: 0.7rem !important;
+      }
+      .nav-book-btn {
+        min-width: 62px;
+        font-size: 0.68rem !important;
+        padding-left: 0.45rem !important;
+        padding-right: 0.45rem !important;
+      }
+      .nav-book-btn svg {
+        display: none;
+      }
+      .mobile-menu-btn {
+        width: 34px !important;
+        height: 34px !important;
+      }
+      .top-announcement-bar {
+        font-size: 0.64rem !important;
+      }
+    }
+
+    @media (max-width: 280px) {
+      .nav-brand-title {
+        max-width: 36vw !important;
+      }
+      .nav-brand {
+        gap: 0.25rem !important;
+      }
+      .nav-book-btn {
+        min-width: 58px;
+        padding-left: 0.35rem !important;
+        padding-right: 0.35rem !important;
       }
     }
 
