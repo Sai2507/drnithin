@@ -733,13 +733,13 @@
 
     .hero-badge-top {
         top: 1.5rem;
-        left: -1rem;
+        right: -1rem;
         padding: 0.5rem 1rem;
     }
 
     .hero-badge-bottom {
         bottom: 2.5rem;
-        right: -1rem;
+        left: -1rem;
         padding: 0.5rem 1rem;
     }
 
@@ -808,7 +808,7 @@
 
         .hero-badge-top {
             top: 0.5rem !important;
-            left: 0.5rem !important;
+            right: 0.5rem !important;
             padding: 0.35rem 0.65rem !important;
             border-radius: 0.75rem !important;
         }
@@ -816,7 +816,7 @@
         .hero-badge-bottom {
             bottom: 0.5rem !important;
             left: 0.5rem !important;
-            right: auto !important;
+            left: auto !important;
             padding: 0.35rem 0.65rem !important;
             border-radius: 0.75rem !important;
         }
@@ -864,13 +864,13 @@
 
         .hero-badge-top {
             top: 0.4rem !important;
-            left: 0.4rem !important;
+            right: 0.4rem !important;
             padding: 0.25rem 0.5rem !important;
         }
 
         .hero-badge-bottom {
             bottom: 0.4rem !important;
-            left: 0.4rem !important;
+            right: 0.4rem !important;
             right: auto !important;
             padding: 0.25rem 0.5rem !important;
         }
@@ -1109,5 +1109,76 @@
             width: 28px !important;
             height: 28px !important;
             font-size: 0.9rem !important;
+        }
+    }
+
+    @media (max-width: 640px) {
+        #triage {
+            padding-top: 3rem !important;
+            padding-bottom: 3rem !important;
+        }
+
+        #triage > .container > .card {
+            padding: 1rem !important;
+        }
+
+        #triageResultBox {
+            padding: 1rem !important;
+        }
+
+        #triageResultBox h4 {
+            font-size: 1.1rem !important;
+        }
+
+        #triageResultBox > .flex:last-child {
+            flex-direction: column !important;
+            align-items: stretch !important;
+            gap: 0.75rem !important;
+        }
+
+        #triageBookBtn,
+        #triageExploreBtn {
+            width: 100%;
+        }
+
+        #reviews {
+            padding-top: 3rem !important;
+            padding-bottom: 3rem !important;
+        }
+
+        #reviews > .container > div:first-child > .flex {
+            width: 100%;
+            max-width: 24rem;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.5rem 0.75rem !important;
+            padding: 0.75rem 1rem !important;
+            border-radius: 1rem !important;
+        }
+
+        #reviews > .container > div:first-child > .flex span {
+            white-space: nowrap;
+        }
+
+        #reviews > .container > .card {
+            flex-direction: column;
+            align-items: stretch !important;
+            padding: 1.25rem 1rem !important;
+            text-align: left;
+        }
+
+        #reviews > .container > .card > .flex {
+            align-items: flex-start !important;
+        }
+
+        #reviews > .container > .card > .flex > div:last-child {
+            min-width: 0;
+        }
+
+        #reviews > .container > .card > a {
+            width: 100%;
+            max-width: 20rem;
+            align-self: center;
+            white-space: normal;
         }
     }
