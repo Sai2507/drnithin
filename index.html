@@ -438,26 +438,103 @@
 
     @media (max-width: 640px) {
       .top-announcement-bar {
-        padding: 0.35rem 0 !important;
+        padding: 0.45rem 0 !important;
+        font-size: 0.72rem !important;
+        line-height: 1.35 !important;
       }
       .top-announcement-inner {
         flex-direction: column !important;
         align-items: center !important;
         text-align: center !important;
-        gap: 0.25rem !important;
+        gap: 0.2rem !important;
+        flex-wrap: nowrap !important;
+        padding-left: 0.75rem !important;
+        padding-right: 0.75rem !important;
+      }
+      .top-announcement-inner > div:first-child {
+        width: 100%;
+        justify-content: center;
+      }
+      .top-announcement-inner > div:first-child > span {
+        justify-content: center;
+        flex-wrap: wrap;
       }
       .top-announcement-inner .top-phone {
         margin-left: 0 !important;
       }
+      .header-container {
+        gap: 0.35rem !important;
+        padding: 0.55rem 0.75rem !important;
+      }
+      .nav-brand {
+        min-width: 0 !important;
+        gap: 0.5rem !important;
+      }
+      .nav-brand > div:last-child {
+        min-width: 0;
+      }
+      .nav-brand-title {
+        font-size: 0.88rem !important;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
       .nav-book-btn {
-        padding: 0.45rem 0.75rem !important;
-        font-size: 0.8rem !important;
+        padding: 0.48rem 0.75rem !important;
+        font-size: 0.78rem !important;
       }
       .nav-book-text-long {
         display: none !important;
       }
       .nav-book-text-short {
         display: inline !important;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .header-container {
+        padding-left: 0.5rem !important;
+        padding-right: 0.5rem !important;
+      }
+      .nav-brand > div:first-child {
+        width: 36px !important;
+        height: 36px !important;
+      }
+      .nav-brand-title {
+        font-size: 0.78rem !important;
+        max-width: 38vw;
+      }
+      .header-actions {
+        gap: 0.35rem !important;
+      }
+      #themeToggleBtn {
+        width: 34px !important;
+        height: 34px !important;
+      }
+      .nav-book-btn {
+        padding: 0.42rem 0.65rem !important;
+        font-size: 0.72rem !important;
+        gap: 0.35rem !important;
+      }
+      .mobile-menu-btn {
+        width: 36px !important;
+        height: 36px !important;
+      }
+    }
+
+    @media (max-width: 360px) {
+      #themeToggleBtn {
+        display: none !important;
+      }
+      .nav-brand-title {
+        max-width: 42vw;
+        font-size: 0.72rem !important;
+      }
+      .nav-brand {
+        gap: 0.35rem !important;
+      }
+      .nav-book-btn {
+        padding-left: 0.55rem !important;
+        padding-right: 0.55rem !important;
       }
     }
 
