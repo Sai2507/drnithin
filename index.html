@@ -27,7 +27,6 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap"
     rel="stylesheet">
-
   <link rel="stylesheet" href="/styles.css">
 </head>
 
@@ -151,30 +150,23 @@
   </header>
 
   <!-- Mobile Off-Canvas Drawer (Modern Medical App Style) -->
-  <div id="mobileDrawer"
-    style="position: fixed; inset: 0; z-index: 99; background: rgba(9, 21, 40, 0.7); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); opacity: 0; pointer-events: none; transition: opacity 0.3s ease;">
-    <div id="mobileDrawerContent"
-      style="position: absolute; right: 0; top: 0; bottom: 0; width: 88%; max-width: 340px; background: var(--bg-card); padding: 1.25rem 1.25rem 1.5rem; display: flex; flex-direction: column; transform: translateX(100%); transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1); box-shadow: -10px 0 35px rgba(0,0,0,0.35); overflow-y: auto;">
+  <div id="mobileDrawer" class="mobile-drawer-overlay">
+    <div id="mobileDrawerContent" class="mobile-drawer-panel">
 
       <!-- Drawer Header with Doctor Profile -->
-      <div
-        style="display: flex; align-items: center; justify-content: space-between; padding-bottom: 1rem; border-bottom: 1px solid var(--border-color); margin-bottom: 1rem;">
-        <div style="display: flex; align-items: center; gap: 0.65rem;">
-          <div
-            style="width: 38px; height: 38px; border-radius: 50%; background: linear-gradient(135deg, #0284c7, #0d9488); display: flex; align-items: center; justify-content: center; color: #fff; font-weight: 800; overflow: hidden; border: 2px solid var(--primary-light);">
+      <div class="drawer-header-row">
+        <div class="drawer-doctor-info">
+          <div class="drawer-avatar">
             <img src="assets/images/cropped-mobile-banner-5-68b6fbc38ccf7-180x180.webp" alt="Dr Nithin"
               style="width:100%; height:100%; object-fit:cover;" onerror="this.style.display='none';">
           </div>
-          <div>
-            <div style="font-weight: 800; font-size: 0.95rem; line-height: 1.2; color: var(--text-main);">Dr. Nithin
-              Bejjanki</div>
-            <div style="font-size: 0.7rem; color: var(--text-muted); font-weight: 600;">Orthopaedic &amp; Sports Surgeon
-            </div>
+          <div style="min-width: 0; flex: 1;">
+            <div class="drawer-doc-name">Dr. Nithin Bejjanki</div>
+            <div class="drawer-doc-role">Orthopaedic &amp; Sports Surgeon</div>
           </div>
         </div>
-        <div style="display: flex; align-items: center; gap: 0.5rem;">
-          <button id="mobileDrawerThemeToggle" aria-label="Toggle Theme"
-            style="width: 34px; height: 34px; border-radius: 50%; background: var(--bg-main); border: 1px solid var(--border-color); color: var(--text-main); display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s;">
+        <div class="drawer-header-actions">
+          <button id="mobileDrawerThemeToggle" aria-label="Toggle Theme" class="drawer-action-btn">
             <svg id="mobileDrawerMoonIcon" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"
               viewBox="0 0 24 24">
               <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path>
@@ -187,8 +179,7 @@
               </path>
             </svg>
           </button>
-          <button id="mobileMenuCloseBtn" aria-label="Close Menu"
-            style="width: 34px; height: 34px; border-radius: 50%; background: var(--bg-main); border: 1px solid var(--border-color); color: var(--text-main); display: flex; align-items: center; justify-content: center; cursor: pointer; font-size: 1.1rem; transition: all 0.2s;">✕</button>
+          <button id="mobileMenuCloseBtn" aria-label="Close Menu" class="drawer-action-btn">✕</button>
         </div>
       </div>
 
@@ -579,7 +570,7 @@
     <div class="container">
 
       <div
-        style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 3.5rem; align-items: center; margin-bottom: 4rem;">
+        style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 2.5rem; align-items: center; margin-bottom: 4rem;">
 
         <div style="position: relative;">
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
@@ -824,7 +815,7 @@
             </button>
           </div>
 
-          <div style="position: relative; min-width: 260px; flex-grow: 1; max-width: 360px;">
+          <div style="position: relative; min-width: min(100%, 240px); flex-grow: 1; max-width: 360px; width: 100%;">
             <svg
               style="position: absolute; left: 1rem; top: 50%; transform: translateY(-50%); color: var(--text-muted);"
               width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
@@ -846,7 +837,7 @@
         <span style="font-size: 0.8rem;">Click any card to read full symptoms, treatment options & recovery guide</span>
       </div>
 
-      <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1.5rem;"
+      <div class="grid" style="grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr)); gap: 1.5rem;"
         id="conditionsGrid">
       </div>
 
@@ -870,7 +861,7 @@
       </div>
 
       <div
-        style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 2.5rem; margin-bottom: 4rem;">
+        style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 2.5rem; margin-bottom: 4rem;">
 
         <div class="card" style="padding: 2rem;">
           <div style="position: relative; border-radius: 1rem; overflow: hidden; height: 220px; margin-bottom: 1.5rem;">
@@ -993,7 +984,7 @@
       </div>
 
       <div class="grid"
-        style="grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.5rem; margin-bottom: 3rem;"
+        style="grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 1.5rem; margin-bottom: 3rem;"
         id="reviewsGrid">
       </div>
 
@@ -1033,7 +1024,7 @@
         </p>
       </div>
 
-      <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem;" id="blogsGrid">
+      <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 2rem;" id="blogsGrid">
       </div>
 
     </div>
@@ -1340,7 +1331,7 @@
   <section id="contact" style="padding: 5rem 0; background: var(--bg-card); border-top: 1px solid var(--border-color);">
     <div class="container">
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 3rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 2.5rem;">
 
         <div>
           <span class="badge badge-teal" style="margin-bottom: 0.75rem;">Hospital & OPD Location</span>
@@ -1757,14 +1748,14 @@
     const mobileMenuCloseBtn = document.getElementById('mobileMenuCloseBtn');
 
     function openMobileDrawer() {
-      mobileDrawer.style.opacity = '1';
-      mobileDrawer.style.pointerEvents = 'auto';
-      mobileDrawerContent.style.transform = 'translateX(0)';
+      mobileDrawer.classList.add('active');
+      document.body.style.overflow = 'hidden';
+      document.documentElement.style.overflow = 'hidden';
     }
     function closeMobileDrawer() {
-      mobileDrawer.style.opacity = '0';
-      mobileDrawer.style.pointerEvents = 'none';
-      mobileDrawerContent.style.transform = 'translateX(100%)';
+      mobileDrawer.classList.remove('active');
+      document.body.style.overflow = '';
+      document.documentElement.style.overflow = '';
     }
 
     mobileMenuOpenBtn.addEventListener('click', openMobileDrawer);
