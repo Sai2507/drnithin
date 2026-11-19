@@ -1,0 +1,2431 @@
+{
+  "doctor": {
+    "name": "Dr. Nithin Kumar Bejjanki",
+    "credentials": "MRCS (UK), FRCS (Tr & Ortho), MCh Ortho, DSEM (International Olympic Committee)",
+    "fellowships": "Fellowship Shoulder (UK), Fellowship Knee (UK)",
+    "role": "Consultant Orthopaedic, Arthroscopy & Sports Injury Surgeon",
+    "hospital": "Yashoda Hospitals, Secunderabad, Telangana",
+    "address": "Yashoda Hospitals, Alexander Rd, Kummari Guda, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "phone": "+91-7207171115",
+    "phoneRaw": "+917207171115",
+    "email": "nithindoc@gmail.com",
+    "googleMapsUrl": "https://maps.app.goo.gl/2T7CGuXVtRkPyk8g7",
+    "experienceYears": 24,
+    "qualifications": [
+      {
+        "degree": "MRCS (UK)",
+        "institution": "Royal College of Surgeons, United Kingdom"
+      },
+      {
+        "degree": "FRCS (Tr & Ortho)",
+        "institution": "Royal Colleges of Surgeons of Great Britain and Ireland"
+      },
+      {
+        "degree": "MCh Ortho",
+        "institution": "Master of Orthopaedic Surgery"
+      },
+      {
+        "degree": "DSEM (IOC)",
+        "institution": "Diploma in Sports Medicine, International Olympic Committee"
+      },
+      {
+        "degree": "Calvert Shoulder Fellowship",
+        "institution": "Prestigious Calvert Fellowship, London under Dr. Andrew Wallace"
+      },
+      {
+        "degree": "Knee Fellowship (UK)",
+        "institution": "Specialist Knee Surgery Fellowship under Dr. Andy Williams"
+      }
+    ],
+    "summary": "Dr. Nithin Kumar Bejjanki is an internationally trained orthopaedic surgeon with 24 years of experience, specialising in arthroscopy, sports injuries, complex knee and shoulder conditions, cartilage regeneration, and robotic-assisted surgeries. With advanced training in the UK under globally renowned surgeons, he brings world-class expertise to every patient.",
+    "heroPortrait": "assets/images/img-3255-68b6bd668aa62.webp",
+    "fellowshipPhoto": "assets/images/At-Belgium.jpg",
+    "clinicPhoto": "assets/images/IMG_3700.jpg",
+    "profilePhoto": "assets/images/IMG_3701.jpg",
+    "hospitalBanner": "assets/images/WhatsApp-Image-2025-09-12-at-5.00.50-PM-1-1024x575.jpeg",
+    "counters": [
+      {
+        "label": "Years of Experience",
+        "value": 24,
+        "suffix": "+",
+        "icon": "award",
+        "desc": "Over two decades of clinical and surgical expertise across UK & India"
+      },
+      {
+        "label": "Success Rate",
+        "value": 99,
+        "suffix": "%",
+        "icon": "shield-check",
+        "desc": "Consistently exceptional surgical and rehabilitation outcomes"
+      },
+      {
+        "label": "Positive Feedback",
+        "value": 96,
+        "suffix": "%",
+        "icon": "heart-pulse",
+        "desc": "Verified patient satisfaction and joint mobility restoration"
+      },
+      {
+        "label": "Satisfied Patients",
+        "value": 17,
+        "suffix": "K+",
+        "icon": "users",
+        "desc": "Over 17,000 active individuals and athletes healed"
+      }
+    ],
+    "mission": "To deliver ethical, advanced, and compassionate orthopedic care, specializing in arthroscopy and sports injuries, restoring mobility, enhancing performance, and empowering patients to achieve healthier, active, and fulfilling lives.",
+    "vision": "To be a globally recognized leader in orthopedic excellence, pioneering innovation, education, and research while shaping future surgeons and transforming patient outcomes through world-class surgical expertise and compassionate care.",
+    "values": "Ethics, integrity, compassion, innovation, excellence in surgical practice, continuous learning, commitment to patient recovery, and dedication to advancing orthopedic care for individuals, athletes, and the broader medical community.",
+    "sportsCareer": "Health and fitness play a big part in Dr. Nithin’s leisure time. As a former national Lawn tennis player, he possesses firsthand insight into the biomechanical demands, psychological impact, and rapid recovery requirements of competitive athletes."
+  },
+  "reviews": [
+    {
+      "name": "Balram Kurva",
+      "rating": 5,
+      "date": "Recent Google Review",
+      "avatar": "BK",
+      "tag": "General Orthopaedic Consultation",
+      "text": "Superb nice explanation and giving good suggestions. The consultation was thorough, comforting, and Dr. Nithin took time to inspect my joint and explain all non-surgical options clearly."
+    },
+    {
+      "name": "Ashutosh Gupta",
+      "rating": 5,
+      "date": "Verified Patient",
+      "avatar": "AG",
+      "tag": "Knee ACL Reconstruction",
+      "text": "Had undergone ACL reconstruction surgery, Dr Nithin was very professional and clear with instructions and procedure that needs to be followed. Post-op followups and rehab guidelines were top notch!"
+    },
+    {
+      "name": "bommu monish",
+      "rating": 5,
+      "date": "Verified Patient",
+      "avatar": "BM",
+      "tag": "Knee ACL Surgery",
+      "text": "I had my knee ACL surgery with Nithin sir... the surgery was very smooth and painless. After my surgery, sir personally answered all my questions and guided my physio plan."
+    },
+    {
+      "name": "Srinivas Reddy",
+      "rating": 5,
+      "date": "Verified Patient",
+      "avatar": "SR",
+      "tag": "Complex Joint Treatment",
+      "text": "Nithin gaaru treated with atmost care and performed surgery successfully. Highly recommend for those looking for orthopedic and sports injury related issues in Secunderabad and Hyderabad!"
+    },
+    {
+      "name": "butchibabu m",
+      "rating": 5,
+      "date": "Verified Patient (Age 64)",
+      "avatar": "BM",
+      "tag": "Shoulder Surgery",
+      "text": "Excellent doctor for any ortho related issues. I recently got my shoulder operated (age 64), he has clearly explained the pros/cons as I was hesitant given my age. He also has a very strong and professional team who is always available to clarify any trivial queries. He clearly articulates the post op steps to get back to full spirit at the earliest. Highly recommend!"
+    },
+    {
+      "name": "Yeshwanth Reddy",
+      "rating": 5,
+      "date": "Verified Patient",
+      "avatar": "YR",
+      "tag": "Sports Knee Injury",
+      "text": "Dr. Nithin was very professional and knowledgeable about my knee injury. The doctor listened to my concerns and patiently answered all my questions, recommending conservative treatment before jumping to surgery."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gallery-1",
+      "image": "assets/images/IMG_3701.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/IMG_3701.jpg",
+      "name": "IMG_3701.jpg",
+      "title": "Dr. Nithin with Sachin Tendulkar",
+      "category": "Celebrities & Athletes",
+      "caption": "Consultation & sports fitness discussion with cricket legend Sachin Tendulkar"
+    },
+    {
+      "id": "gallery-2",
+      "image": "assets/images/IMG_3700.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/IMG_3700.jpg",
+      "name": "IMG_3700.jpg",
+      "title": "Dr. Nithin with PV Sindhu",
+      "category": "Celebrities & Athletes",
+      "caption": "With Olympic Medallist PV Sindhu at Yashoda Hospitals Sports Medicine Conference"
+    },
+    {
+      "id": "gallery-3",
+      "image": "assets/images/WhatsApp-Image-2025-09-12-at-4.58.02-PM-2.jpeg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-12-at-4.58.02-PM-2.jpeg",
+      "name": "WhatsApp-Image-2025-09-12-at-4.58.02-PM-2.jpeg",
+      "title": "International Faculty Collaboration",
+      "category": "International Conferences",
+      "caption": "Dr. Nithin with international orthopaedic surgery faculty and research delegates"
+    },
+    {
+      "id": "gallery-4",
+      "image": "assets/images/scrubs.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/scrubs.jpg",
+      "name": "scrubs.jpg",
+      "title": "Operating Theatre & Fluoroscopy",
+      "category": "Surgical Procedures",
+      "caption": "Dr. Nithin in sterile surgical scrubs in the advanced operating suite"
+    },
+    {
+      "id": "gallery-5",
+      "image": "assets/images/celeb1.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/celeb1.jpg",
+      "name": "celeb1.jpg",
+      "title": "Sports Medicine at Celebrity Cricket",
+      "category": "Celebrities & Athletes",
+      "caption": "Official medical support and athlete management at the celebrity cricket league"
+    },
+    {
+      "id": "gallery-6",
+      "image": "assets/images/Copy-of-20150201_123031.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/Copy-of-20150201_123031.jpg",
+      "name": "Copy-of-20150201_123031.jpg",
+      "title": "Dr. Nithin with Suniel Shetty",
+      "category": "Celebrities & Athletes",
+      "caption": "Interacting with Bollywood star and fitness enthusiast Suniel Shetty"
+    },
+    {
+      "id": "gallery-7",
+      "image": "assets/images/SAM_2089.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/SAM_2089.jpg",
+      "name": "SAM_2089.jpg",
+      "title": "Rapid Post-Op Rehabilitation",
+      "category": "Patient Recovery",
+      "caption": "Patient confidently climbing stairs independently following minimally invasive joint surgery"
+    },
+    {
+      "id": "gallery-8",
+      "image": "assets/images/celeb2.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/celeb2.jpg",
+      "name": "celeb2.jpg",
+      "title": "Telugu Warriors Team Physician",
+      "category": "Celebrities & Athletes",
+      "caption": "Dr. Nithin managing pitch-side sports trauma and injury prevention for Telugu Warriors"
+    },
+    {
+      "id": "gallery-9",
+      "image": "assets/images/At-Belgium.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/At-Belgium.jpg",
+      "name": "At-Belgium.jpg",
+      "title": "European Fellowship Locker Room",
+      "category": "International Conferences",
+      "caption": "Dr. Nithin with UK & European surgical fellows during international clinical training"
+    },
+    {
+      "id": "gallery-10",
+      "image": "assets/images/Arthroscopy-knee.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/Arthroscopy-knee.jpg",
+      "name": "Arthroscopy-knee.jpg",
+      "title": "Minimally Invasive Knee Arthroscopy",
+      "category": "Surgical Procedures",
+      "caption": "High-definition 4K keyhole arthroscopy performed in the advanced Yashoda OT"
+    },
+    {
+      "id": "gallery-11",
+      "image": "assets/images/1-day-after-knee-replacements.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/1-day-after-knee-replacements.jpg",
+      "name": "1-day-after-knee-replacements.jpg",
+      "title": "1-Day After Bilateral Knee Surgery",
+      "category": "Patient Recovery",
+      "caption": "Patient mobilized and walking independently just 24 hours after precision knee surgery"
+    },
+    {
+      "id": "gallery-12",
+      "image": "assets/images/speech.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/speech.jpg",
+      "name": "speech.jpg",
+      "title": "Keynote Lecture: Shoulder Injuries in Sports",
+      "category": "Conferences & Academics",
+      "caption": "Dr. Nithin presenting surgical outcomes and arthroscopic techniques at national medical conference"
+    },
+    {
+      "id": "gallery-13",
+      "image": "assets/images/coat.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/coat.jpg",
+      "name": "coat.jpg",
+      "title": "Dr. Nithin at OPD Consultation Desk",
+      "category": "Clinical Consultations",
+      "caption": "In-depth patient consultation and joint mobility assessment at Yashoda Hospitals Secunderabad"
+    },
+    {
+      "id": "gallery-14",
+      "image": "assets/images/SAM_2836.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/SAM_2836.jpg",
+      "name": "SAM_2836.jpg",
+      "title": "Dr. Nithin Kumar Bejjanki, FRCS",
+      "category": "Clinical Consultations",
+      "caption": "Professional clinical portrait with diagnostic joint imaging viewbox"
+    },
+    {
+      "id": "gallery-15",
+      "image": "assets/images/IMG_3697.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/IMG_3697.jpg",
+      "name": "IMG_3697.jpg",
+      "title": "Yashoda Hospitals Reception & Patient Lounge",
+      "category": "Hospital Facilities",
+      "caption": "State-of-the-art outpatient consultation wing at Yashoda Hospitals Secunderabad"
+    },
+    {
+      "id": "gallery-16",
+      "image": "assets/images/IMG_3696.jpg",
+      "fallbackImage": "https://drnithin.com/wp-content/uploads/2025/09/IMG_3696.jpg",
+      "name": "IMG_3696.jpg",
+      "title": "Yashoda Hospitals Secunderabad Campus",
+      "category": "Hospital Facilities",
+      "caption": "Exterior view of the premier multi-speciality tertiary care medical center"
+    }
+  ],
+  "videos": [
+    {
+      "id": "knee-arthroscopy",
+      "title": "Knee Arthroscopy & Meniscus Preservation Explained",
+      "category": "Knee Care",
+      "duration": "4:15 min",
+      "thumbnail": "assets/images/17617-68b7aaceedb11.webp",
+      "description": "Understanding minimally invasive keyhole knee surgery, meniscus tear repair vs debridement, and rapid post-op weight-bearing milestones."
+    },
+    {
+      "id": "bankart-repair",
+      "title": "Shoulder Dislocation & Arthroscopic Bankart Repair",
+      "category": "Shoulder Care",
+      "duration": "5:30 min",
+      "thumbnail": "assets/images/EN-DRNI-B-OR-CN2301-V2_20251118_125303_v1.jpg",
+      "description": "How arthroscopic suture anchors reattach torn labrum tissue to restore full joint stability and prevent recurrent shoulder dislocations."
+    },
+    {
+      "id": "acl-rehab",
+      "title": "ACL Reconstruction: Step-by-Step Recovery Timeline",
+      "category": "Sports Medicine",
+      "duration": "6:10 min",
+      "thumbnail": "assets/images/19250839-68b7abf27f1dc-e1756880968231.webp",
+      "description": "A comprehensive visual guide from day 1 after ACL surgery through functional physical therapy, proprioception, and safe return-to-sport testing."
+    },
+    {
+      "id": "biologics-prp",
+      "title": "Regenerative Biologics: PRP & Cartilage Restoration",
+      "category": "Regenerative Biologics",
+      "duration": "3:45 min",
+      "thumbnail": "assets/images/arm-treatment_1098-16885.jpg",
+      "description": "How autologous growth factors and cellular therapies stimulate tendon healing and protect cartilage in early osteoarthritis."
+    }
+  ],
+  "conditions": [
+    {
+      "id": "acl-repair-reconstruction",
+      "file": "page_acl-repair-reconstruction_.html",
+      "title": "ACL Repair & Reconstruction",
+      "category": "Knee Specialities",
+      "tagline": "Precise ACL repair and reconstruction to restore knee stability, strength, mobility, and safe return to sports.",
+      "overview": "ACL Repair &amp; Reconstruction is a specialized orthopedic procedure for anterior cruciate ligament (ACL) injuries , common in athletes and active individuals. The ACL is crucial for knee stability, pivoting, and movement , and injuries can lead to instability, pain, and difficulty performing sports or daily activities . Under the guidance of Dr. Nithin Kumar Bejjanki , this procedure restores knee stability and function using advanced surgical techniques and personalized rehabilitation programs .",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/19250839-68b7abf27f1dc-e1756880968231.webp",
+      "localImage": "assets/images/19250839-68b7abf27f1dc-e1756880968231.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "ACL Repair &amp; Reconstruction is recommended for patients experiencing:",
+          "items": [
+            "Knee instability or giving way during movement",
+            "Pain, swelling, or stiffness after injury",
+            "Limited mobility affecting daily activities or sports",
+            "ACL tears due to trauma, sports injuries, or accidents",
+            "Associated injuries like meniscus or cartilage damage"
+          ],
+          "outro": "The procedure is designed to restore knee function, prevent further injury, and enable safe return to sport.",
+          "allParagraphs": [
+            "ACL Repair &amp; Reconstruction is recommended for patients experiencing:",
+            "The procedure is designed to restore knee function, prevent further injury, and enable safe return to sport."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Treatment may include:",
+          "items": [
+            "ACL repair for partial tears or suitable cases",
+            "ACL reconstruction using grafts (autograft or allograft) for complete tears",
+            "Simultaneous repair of meniscus or cartilage if required",
+            "Minimally invasive arthroscopic techniques for precise reconstruction",
+            "Post-surgical rehabilitation programs to restore strength, flexibility, and stability"
+          ],
+          "outro": "The choice of treatment depends on injury severity, patient age, activity level, and long-term goals.",
+          "allParagraphs": [
+            "Treatment may include:",
+            "The choice of treatment depends on injury severity, patient age, activity level, and long-term goals."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients typically experience improved knee stability, reduced pain, and faster recovery with modern surgical techniques.",
+          "items": [
+            "Preoperative Assessment: Clinical evaluation, MRI imaging, and patient counseling",
+            "Anesthesia: General or regional anesthesia based on patient needs",
+            "Surgical Procedure: Arthroscopic reconstruction using grafts to replace or repair the torn ACL",
+            "Closure &amp; Dressing: Small incisions closed with sutures, knee bandaged",
+            "Postoperative Rehabilitation: Structured physiotherapy focusing on range of motion, strength, and gradual return to activity"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients typically experience improved knee stability, reduced pain, and faster recovery with modern surgical techniques."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Full recovery typically takes 6–9 months, depending on patient adherence to rehabilitation.",
+            "Q2: Can I return to sports?A: Yes, with structured rehab and gradual progression, athletes can return safely to pre-injury activities.",
+            "Q3: Is ACL surgery painful?A: Mild discomfort is managed with medications and physiotherapy; most patients tolerate the procedure well.",
+            "Q4: What are the advantages of reconstruction?A: Restores knee stability, prevents further injury, and allows safe return to sports.",
+            "Q5: Will knee function fully return?A: With proper rehabilitation, most patients regain full mobility, strength, and stability.",
+            "ACL Repair &amp; Reconstruction is a safe, effective, and athlete-focused procedure that restores knee stability, mobility, and confidence."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "ankle-injury-treatments",
+      "file": "page_ankle-injury-treatments_.html",
+      "title": "Ankle Injury Treatments",
+      "category": "Ankle & Elbow",
+      "tagline": "Expert ankle injury care to relieve pain, restore stability, strength, mobility, and safe functional recovery.",
+      "overview": "Ankle Injury Treatments focus on diagnosing, managing, and rehabilitating injuries of the ankle joint , including sprains, fractures, ligament tears, and tendon injuries . The ankle is a weight-bearing joint essential for walking, running, and sports , making prompt and effective treatment crucial to prevent long-term instability or arthritis. Under the care of Dr. Nithin Kumar Bejjanki , patients benefit from advanced diagnostics, minimally invasive procedures, and personalized rehabilitation programs , ensuring pain relief, restored mobility, and safe return to daily activities or sports .",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/8520-68b7bdf2798fa-1.webp",
+      "localImage": "assets/images/8520-68b7bdf2798fa-1.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Ankle Injury Treatments address patients experiencing:",
+          "items": [
+            "Pain, swelling, or bruising after trauma",
+            "Instability or recurrent ankle sprains",
+            "Ligament or tendon tears",
+            "Fractures of the ankle bones",
+            "Achilles tendon injuries",
+            "Post-traumatic arthritis or chronic ankle pain",
+            "Difficulty walking or performing sports activities"
+          ],
+          "outro": "The aim is to restore strength, stability, and full functional mobility in the ankle joint.",
+          "allParagraphs": [
+            "Ankle Injury Treatments address patients experiencing:",
+            "The aim is to restore strength, stability, and full functional mobility in the ankle joint."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches:",
+          "items": [
+            "Immobilization using splints, casts, or braces",
+            "Pain management with medications or anti-inflammatory therapy",
+            "Physiotherapy for strength, balance, and flexibility",
+            "Activity modification to reduce stress and prevent further injury",
+            "Ligament reconstruction for chronic instability",
+            "Tendon repair (e.g., Achilles or peroneal tendons)",
+            "Arthroscopic surgery for cartilage or bone injuries",
+            "Fracture fixation using plates, screws, or rods",
+            "Regenerative therapies like PRP or stem cell injections"
+          ],
+          "outro": "Treatment is tailored to injury type, severity, patient age, and activity level.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:",
+            "Treatment is tailored to injury type, severity, patient age, and activity level."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients benefit from expert care, precise intervention, and structured rehabilitation to regain full ankle function efficiently.",
+          "items": [
+            "Comprehensive Assessment: Clinical evaluation, imaging (X-ray, MRI, or CT)",
+            "Treatment Planning: Selecting conservative or surgical approach based on diagnosis",
+            "Surgical Intervention (if needed): Repair or reconstruction of ligaments, tendons, or bones",
+            "Postoperative Care: Immobilization, pain management, and early physiotherapy",
+            "Rehabilitation: Gradual weight-bearing, strengthening, and balance exercises",
+            "Follow-Up: Monitoring healing, functional recovery, and prevention of recurrence"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients benefit from expert care, precise intervention, and structured rehabilitation to regain full ankle function efficiently."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take for ankle injuries?A: Recovery varies: 4–6 weeks for minor sprains, 3–6 months for surgical repair.",
+            "Q2: Can I return to sports after ankle surgery?A: Gradual return is possible with physiotherapy and functional strengthening, usually 3–6 months post-op.",
+            "Q3: How is ankle stability restored?A: Through ligament repair, tendon reconstruction, and structured rehabilitation to rebuild strength and balance.",
+            "Q4: Are non-surgical treatments effective?A: Yes, mild sprains or minor injuries often heal with immobilization, therapy, and activity modification.",
+            "Q5: How can future injuries be prevented?A: Maintain strength, flexibility, and proprioception exercises, wear supportive footwear, and avoid high-risk activities initially."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "arthroscopy-for-ankle-elbow",
+      "file": "page_arthroscopy-for-ankle-elbow_.html",
+      "title": "Arthroscopy for Ankle & Elbow",
+      "category": "Ankle & Elbow",
+      "tagline": "Minimally invasive arthroscopy to relieve pain, repair injuries, restore joint stability, mobility, and function safely.",
+      "overview": "Arthroscopy for Ankle &amp; Elbow is a minimally invasive orthopedic procedure used to diagnose and treat joint injuries and disorders in the ankle and elbow. Using a small camera (arthroscope) and specialized instruments through tiny incisions, surgeons can repair ligaments, tendons, cartilage, and remove damaged tissue without extensive open surgery. Under the expertise of Dr. Nithin Kumar Bejjanki , patients benefit from precise interventions, faster recovery, and personalized rehabilitation , ensuring pain relief, improved mobility, and early return to activity or sports .",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/4423-68b7d1ee00c09.webp",
+      "localImage": "assets/images/4423-68b7d1ee00c09.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Arthroscopy for Ankle &amp; Elbow addresses patients with:",
+          "items": [
+            "Persistent joint pain or swelling",
+            "Limited range of motion",
+            "Ligament or tendon injuries (e.g., lateral ankle ligaments, elbow ulnar collateral ligament)",
+            "Cartilage or bone damage",
+            "Joint instability or recurrent sprains",
+            "Inflammation, loose bodies, or impingement",
+            "Post-traumatic or degenerative joint conditions"
+          ],
+          "outro": "The treatment aims to restore function, relieve pain, and prevent further joint degeneration.",
+          "allParagraphs": [
+            "Arthroscopy for Ankle &amp; Elbow addresses patients with:",
+            "The treatment aims to restore function, relieve pain, and prevent further joint degeneration."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches:",
+          "items": [
+            "Physiotherapy to improve strength, flexibility, and range of motion",
+            "Pain management using medications or injections",
+            "Activity modification to reduce joint stress",
+            "Debridement of damaged tissue or loose fragments",
+            "Ligament or tendon repair",
+            "Removal of inflamed bursae or scar tissue",
+            "Capsular release for stiffness",
+            "Cartilage repair or microfracture procedures",
+            "Regenerative therapies such as PRP injections to enhance healing"
+          ],
+          "outro": "Treatment is personalized based on joint, injury severity, and patient activity level.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Arthroscopic Interventions:",
+            "Treatment is personalized based on joint, injury severity, and patient activity level."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Arthroscopy allows less tissue damage, minimal scarring, and faster return to work or sports compared to traditional open surgery.",
+          "items": [
+            "Preoperative Assessment: Clinical evaluation and imaging (X-ray, MRI, or CT)",
+            "Anesthesia: Local, regional, or general anesthesia depending on procedure",
+            "Surgical Procedure: Small incisions are made; arthroscope and instruments are used for precise repair",
+            "Closure &amp; Dressing: Tiny incisions closed with sutures or adhesive strips; joint bandaged",
+            "Postoperative Rehabilitation: Early mobilization, physiotherapy for strength, flexibility, and function",
+            "Follow-Up: Regular monitoring to ensure proper healing, joint stability, and pain-free motion"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Arthroscopy allows less tissue damage, minimal scarring, and faster return to work or sports compared to traditional open surgery."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long is recovery after arthroscopy?A: Most patients regain functional movement within 4–6 weeks, full strength in 2–3 months.",
+            "Q2: Is arthroscopy painful?A: Mild discomfort is expected and managed with pain medications and structured physiotherapy.",
+            "Q3: Can I return to sports?A: Gradual return is possible within 2–3 months, depending on joint and procedure performed.",
+            "Q4: Are there risks?A: Rare risks include infection, stiffness, or nerve irritation, minimized with skilled surgical technique.",
+            "Q5: How effective is arthroscopy compared to open surgery?A: Equally effective with faster recovery, minimal scarring, and lower complication rates."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "cartilage-regeneration-surgery",
+      "file": "page_cartilage-regeneration-surgery_.html",
+      "title": "Cartilage Regeneration Surgery",
+      "category": "Robotic & Regenerative Biologics",
+      "tagline": "Advanced cartilage regeneration surgery to restore joint function, relieve pain, enhance mobility, and prevent degeneration.",
+      "overview": "Cartilage Regeneration Surgery is an advanced orthopedic treatment focused on restoring damaged or worn joint cartilage to relieve chronic pain, enhance joint mobility, and preserve natural joint longevity.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/6522-68b7d56743466.webp",
+      "localImage": "assets/images/6522-68b7d56743466.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Cartilage Regeneration Surgery is recommended for patients experiencing:",
+          "items": [
+            "Persistent joint pain and stiffness",
+            "Swelling or discomfort during movement",
+            "Reduced range of motion",
+            "Cartilage defects or degeneration from trauma or arthritis",
+            "Joint instability or locking",
+            "Early-stage osteoarthritis or localized cartilage loss"
+          ],
+          "outro": "The goal is to regenerate healthy cartilage, relieve pain, and restore smooth joint function.",
+          "allParagraphs": [
+            "Cartilage Regeneration Surgery is recommended for patients experiencing:",
+            "The goal is to regenerate healthy cartilage, relieve pain, and restore smooth joint function."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches:",
+          "items": [
+            "Physical therapy to strengthen supporting muscles",
+            "Pain management with medications or injections",
+            "Activity modification to reduce joint stress",
+            "Biologic therapies like PRP or stem cell injections to support cartilage healing",
+            "Autologous Chondrocyte Implantation (ACI): Patient’s own cartilage cells are cultured and reimplanted",
+            "Osteochondral Autograft or Allograft Transplantation: Healthy cartilage transplanted to damaged areas",
+            "Microfracture Surgery: Stimulates new cartilage formation by creating small holes in the bone",
+            "Combination Biologic Approaches: PRP or stem cell therapy used alongside surgery to enhance regeneration"
+          ],
+          "outro": "Treatment is tailored to the defect size, joint, patient age, and activity level to achieve optimal results.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Regenerative Interventions:",
+            "Treatment is tailored to the defect size, joint, patient age, and activity level to achieve optimal results."
+          ]
+        },
+        "procedureTab": {
+          "intro": "The procedure aims to restore healthy cartilage, prevent progression of joint degeneration, and improve long-term joint mobility.",
+          "items": [
+            "Comprehensive Assessment: Clinical evaluation, imaging (MRI, X-ray) to assess cartilage damage",
+            "Surgical Planning: Selection of suitable regenerative technique for the patient’s specific condition",
+            "Surgical Procedure: Arthroscopic or open surgery to repair, graft, or implant cartilage",
+            "Closure &amp; Dressing: Incisions closed, joint stabilized with brace or bandage",
+            "Postoperative Rehabilitation: Gradual physiotherapy for restoring range of motion, strength, and function",
+            "Follow-Up: Regular monitoring of cartilage regeneration, joint function, and pain relief"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "The procedure aims to restore healthy cartilage, prevent progression of joint degeneration, and improve long-term joint mobility."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take after cartilage regeneration surgery?A: Recovery varies: 4–6 weeks for minor arthroscopic procedures, 3–6 months for graft or implantation surgeries.",
+            "Q2: Can I return to sports?A: Gradual return is possible after 3–6 months, depending on surgery type and rehabilitation progress.",
+            "Q3: Is surgery painful?A: Mild discomfort is expected; managed with pain medications and structured physiotherapy.",
+            "Q4: Are non-surgical treatments effective?A: Mild cartilage defects may respond to regenerative therapies, but moderate-to-severe damage often requires surgery.",
+            "Q5: How long does regenerated cartilage last?A: With proper rehab and joint care, results can last many years, delaying arthritis progression.",
+            "Cartilage Regeneration Surgery offers state-of-the-art treatment to restore joint function, relieve pain, and improve long-term mobility and quality of life."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "cartilage-repair",
+      "file": "page_cartilage-repair_.html",
+      "title": "Cartilage Repair",
+      "category": "Robotic & Regenerative Biologics",
+      "tagline": "Advanced cartilage repair to restore joint function, reduce pain, enhance mobility, and prevent further degeneration",
+      "overview": "Cartilage Repair is an advanced orthopedic treatment focused on restoring damaged or worn cartilage in joints , particularly the knee, shoulder, and ankle . Cartilage injuries can result from trauma, sports injuries, arthritis, or degenerative joint disease , causing pain, stiffness, and limited mobility . Under the care of Dr. Nithin Kumar Bejjanki , patients receive precise diagnosis, minimally invasive or surgical repair, and personalized rehabilitation programs , ensuring pain relief, improved joint function, and prevention of further degeneration .",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/18572-68b7d473c96c9.webp",
+      "localImage": "assets/images/18572-68b7d473c96c9.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Cartilage Repair is suitable for patients experiencing:",
+          "items": [
+            "Joint pain and stiffness affecting daily activities",
+            "Swelling or discomfort after movement",
+            "Cartilage tears or degeneration from trauma or arthritis",
+            "Reduced range of motion or locking of the joint",
+            "Persistent pain despite conservative treatment",
+            "Early osteoarthritis or localized cartilage defects"
+          ],
+          "outro": "The goal is to restore smooth joint surfaces, reduce pain, and improve mobility.",
+          "allParagraphs": [
+            "Cartilage Repair is suitable for patients experiencing:",
+            "The goal is to restore smooth joint surfaces, reduce pain, and improve mobility."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches:",
+          "items": [
+            "Pain management with medications or injections",
+            "Physical therapy to strengthen surrounding muscles",
+            "Activity modification to reduce joint stress",
+            "Orthobiologics (PRP or stem cell therapy) to promote healing",
+            "Microfracture Surgery: Stimulates new cartilage growth using small holes in the bone",
+            "Osteochondral Autograft or Allograft Transplantation: Replaces damaged cartilage with healthy tissue",
+            "Autologous Chondrocyte Implantation (ACI): Patient’s own cartilage cells are cultured and implanted",
+            "Minimally Invasive Arthroscopic Cartilage Repair: Reduces tissue damage and speeds recovery",
+            "Combination Regenerative Therapies: PRP or stem cells to enhance healing after repair"
+          ],
+          "outro": "Treatment is customized based on cartilage defect size, joint, patient age, and activity level.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:",
+            "Treatment is customized based on cartilage defect size, joint, patient age, and activity level."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Cartilage repair procedures aim to restore smooth joint surfaces, prevent further degeneration, and maintain long-term joint health.",
+          "items": [
+            "Comprehensive Assessment: Clinical evaluation, imaging (MRI, X-ray) to assess cartilage damage",
+            "Surgical Planning: Selecting the appropriate repair technique for optimal results",
+            "Surgical Procedure: Arthroscopic or open cartilage repair, grafting, or cell implantation",
+            "Closure &amp; Dressing: Incisions closed, joint stabilized with brace or bandage",
+            "Rehabilitation: Gradual physiotherapy to restore motion, strength, and joint function",
+            "Follow-Up: Regular monitoring to evaluate cartilage healing and functional improvement"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Cartilage repair procedures aim to restore smooth joint surfaces, prevent further degeneration, and maintain long-term joint health."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take after cartilage repair?A: Recovery varies: 4–6 weeks for minor arthroscopic repairs, 3–6 months for graft or implantation procedures.",
+            "Q2: Can I return to sports?A: Gradual return is possible after 3–6 months, depending on the repair type and rehabilitation progress.",
+            "Q3: Is surgery painful?A: Mild postoperative discomfort is expected; managed with medications and physiotherapy.",
+            "Q4: Are non-surgical treatments effective?A: Mild cartilage damage may improve with physiotherapy and regenerative therapies, but moderate-to-severe defects often require repair.",
+            "Q5: How long does the repaired cartilage last?A: With proper rehab and joint care, results can last many years, delaying osteoarthritis progression.",
+            "Cartilage Repair offers advanced treatment to restore joint function, reduce pain, and improve long-term mobility and quality of life."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "complex-shoulder-trauma-management",
+      "file": "page_complex-shoulder-trauma-management_.html",
+      "title": "Complex Shoulder Trauma Management",
+      "category": "Shoulder Specialities",
+      "tagline": "Expert management of complex proximal humerus fractures, dislocations, and multi-ligament shoulder injuries.",
+      "overview": "Complex Shoulder Trauma Management is a specialized orthopedic service focused on diagnosing, stabilizing, and treating severe shoulder injuries . Such injuries may result from high-impact trauma, sports accidents, falls, or vehicular accidents and often involve fractures, dislocations, ligament tears, and soft tissue damage . Under the care of Dr. Nithin Kumar Bejjanki , patients receive advanced diagnostics, surgical and non-surgical interventions, and personalized rehabilitation programs aimed at restoring function, strength, and stability in the shoulder joint.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/422678-68b7b79f11082-1.webp",
+      "localImage": "assets/images/422678-68b7b79f11082-1.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "This service addresses patients experiencing:",
+          "items": [
+            "Severe shoulder pain and swelling after trauma",
+            "Limited range of motion or stiffness",
+            "Instability or repeated dislocations",
+            "Fractures of the clavicle, scapula, or proximal humerus",
+            "Rotator cuff or labral tears associated with trauma",
+            "Soft tissue injuries affecting shoulder mobility"
+          ],
+          "outro": "The focus is on accurate diagnosis and comprehensive care to prevent long-term disability.",
+          "allParagraphs": [
+            "This service addresses patients experiencing:",
+            "The focus is on accurate diagnosis and comprehensive care to prevent long-term disability."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches:",
+          "items": [
+            "Immobilization and bracing to stabilize the joint",
+            "Pain management using medications and anti-inflammatory therapy",
+            "Physiotherapy and guided rehabilitation for mild fractures or soft tissue injuries",
+            "Open reduction and internal fixation (ORIF) for complex fractures",
+            "Arthroscopic repair of torn ligaments or rotator cuff",
+            "Shoulder stabilization procedures for recurrent dislocations",
+            "Reverse or total shoulder replacement in severe degenerative or irreparable injuries",
+            "Regenerative therapies like PRP injections to support healing"
+          ],
+          "outro": "Treatment is customized based on injury type, severity, patient age, and activity level, ensuring the best possible functional outcome.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:",
+            "Treatment is customized based on injury type, severity, patient age, and activity level, ensuring the best possible functional outcome."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients benefit from expert surgical care combined with personalized rehabilitation, reducing pain and regaining shoulder function efficiently.",
+          "items": [
+            "Comprehensive Assessment: Detailed history, physical examination, and imaging (X-ray, CT, MRI)",
+            "Emergency Stabilization (if needed): Immobilization, pain control, and injury management",
+            "Surgical Planning: Selecting minimally invasive or open procedures based on complexity",
+            "Surgical Intervention: Repairing fractures, ligaments, tendons, or replacing joint components as required",
+            "Rehabilitation: Structured physiotherapy program to restore strength, mobility, and functional stability",
+            "Follow-Up: Regular monitoring to prevent complications, optimize recovery, and guide safe return to activity"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients benefit from expert surgical care combined with personalized rehabilitation, reducing pain and regaining shoulder function efficiently."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: What immediate steps should I take after a shoulder injury?A: Immobilize the shoulder, apply ice, and seek prompt orthopedic evaluation to prevent further damage.",
+            "Q2: How long will I need physiotherapy?A: Typically 3–6 months, but complex cases may require extended rehabilitation for full strength and mobility.",
+            "Q3: Will I regain full shoulder motion?A: With proper surgery and rehab, most patients regain near-complete or full range of motion.",
+            "Q4: Can I resume heavy lifting or sports?A: Gradually, under physiotherapy supervision; high-impact activities are usually safe after 6–12 months.",
+            "Q5: How do I prevent re-injury?A: Follow structured exercises, avoid premature strain, and maintain shoulder strength and flexibility consistently.",
+            "Q6: Are there long-term complications?A: Rare, but may include stiffness or mild weakness; adherence to rehabilitation reduces risks significantly."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "elite-athlete-treatment",
+      "file": "page_elite-athlete-treatment_.html",
+      "title": "Elite Athlete Treatment",
+      "category": "Sports Medicine & Recovery",
+      "tagline": "Recover stronger, prevent injuries, and achieve peak performance with personalized care for every elite athlete",
+      "overview": "Elite Athlete Treatment is a specialized orthopedic and sports medicine service designed to meet the unique needs of professional and high-performance athletes. Injuries in competitive sports can impact careers and performance, making timely diagnosis, advanced treatment, and precise rehabilitation essential. Under the guidance of Dr. Nithin Kumar Bejjanki , an expert in sports injuries and arthroscopy, this service focuses on maximizing recovery, preventing reinjury, and restoring peak athletic performance . Every treatment plan is tailored to the athlete’s sport, level of competition, and long-term goals.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/2149255810-68b7a6487ce93-1.webp",
+      "localImage": "assets/images/2149255810-68b7a6487ce93-1.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Elite Athlete Treatment addresses a wide range of sports-related injuries and conditions, including:",
+          "items": [
+            "Ligament tears (ACL, PCL, MCL)",
+            "Meniscus and cartilage injuries",
+            "Rotator cuff injuries and shoulder instability",
+            "Muscle strains, tendonitis, and sprains",
+            "Fractures, joint dislocations, and trauma",
+            "Overuse injuries and stress fractures",
+            "Post-surgical complications and recurring injuries"
+          ],
+          "outro": "Athletes often experience pain, swelling, instability, reduced mobility, or difficulty performing sport-specific movements, all of which are carefully evaluated to ensure precise and individualized care.",
+          "allParagraphs": [
+            "Elite Athlete Treatment addresses a wide range of sports-related injuries and conditions, including:",
+            "Athletes often experience pain, swelling, instability, reduced mobility, or difficulty performing sport-specific movements, all of which are carefully evaluated to ensure precise and individualized care."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Treatment combines conservative, regenerative, and surgical approaches depending on the injury severity and performance goals:",
+          "items": [
+            "Physiotherapy and functional rehabilitation programs",
+            "Strength, mobility, and conditioning exercises",
+            "Bracing and supportive devices",
+            "Regenerative therapies including PRP and stem cell injections",
+            "Sports nutrition guidance and recovery optimization",
+            "Arthroscopic repair for knees, shoulders, and ankles",
+            "Ligament reconstruction (ACL, PCL, MCL)",
+            "Meniscus repair and cartilage regeneration",
+            "Shoulder stabilization and rotator cuff repair",
+            "Knee realignment or joint replacement for complex cases"
+          ],
+          "outro": "Each plan is customized to ensure minimal downtime, faster recovery, and safe return to competition.",
+          "allParagraphs": [
+            "Treatment combines conservative, regenerative, and surgical approaches depending on the injury severity and performance goals:",
+            "Non-Surgical / Conservative Care:",
+            "Surgical / Advanced Interventions:",
+            "Each plan is customized to ensure minimal downtime, faster recovery, and safe return to competition."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Elite Athlete Treatment follows a structured and personalized approach:",
+          "items": [
+            "Comprehensive Assessment: Detailed evaluation including imaging, functional testing, and performance analysis",
+            "Individualized Plan: Non-surgical or surgical interventions based on injury type and sport demands",
+            "Advanced Surgical Techniques: Minimally invasive arthroscopy and precise reconstructive procedures when needed",
+            "Structured Rehabilitation: Targeted programs to restore strength, flexibility, agility, and confidence",
+            "Ongoing Monitoring: Continuous follow-up to track recovery, optimize performance, and prevent reinjury"
+          ],
+          "outro": "Athletes are closely guided through each stage to ensure safe and effective return to training and competition.",
+          "allParagraphs": [
+            "Elite Athlete Treatment follows a structured and personalized approach:",
+            "Athletes are closely guided through each stage to ensure safe and effective return to training and competition."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does it take to recover from a sports injury?A: Recovery time varies depending on the severity of the injury. Minor injuries may take 2–4 weeks, while complex surgeries such as ligament reconstruction can take 3–6 months.",
+            "Q2: Can I return to competitive sports after treatment?A: Yes. With a structured rehabilitation program and regular performance monitoring, athletes can safely return to training and competition at their pre-injury level.",
+            "Q3: Is surgery always necessary for sports injuries?A: No. Conservative treatments like physiotherapy, bracing, and regenerative therapies are preferred when effective. Surgery is only recommended if non-surgical approaches are insufficient.",
+            "Q4: What does aftercare involve?A: Aftercare includes progressive physiotherapy, strength and conditioning exercises, sports nutrition guidance, and regular follow-up appointments to ensure long-term recovery and injury prevention.",
+            "Q5: Will I regain full function and performance?A: With a personalized treatment plan, adherence to rehabilitation, and expert monitoring, most athletes regain full mobility, strength, and performance for safe return to sports.",
+            "Q6: Can Elite Athlete Treatment prevent future injuries?A: Yes. The program focuses on injury prevention strategies, including strengthening exercises, flexibility training, biomechanics assessment, and sports-specific conditioning, reducing the risk of recurrence."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "elite-sports-injury-management",
+      "file": "page_elite-sports-injury-management_.html",
+      "title": "Elite Sports Injury Management",
+      "category": "Sports Medicine & Recovery",
+      "tagline": "Expert care to prevent injuries, accelerate recovery, and restore peak performance for professional and high-performance athletes efficiently.",
+      "overview": "Elite Sports Injury Management is a highly specialized service designed for athletes, fitness enthusiasts, and active individuals who demand peak physical performance. Sports injuries not only affect mobility but can also interrupt professional careers, training schedules, and long-term athletic goals. At the forefront of this field, Dr. Nithin Kumar Bejjanki combines advanced orthopedic techniques with personalized rehabilitation strategies to help athletes recover quickly and return to their sport stronger than before. His unique experience as a former national lawn tennis player gives him an in-depth understanding of both the physical and psychological demands athletes face during recovery.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/435829-68b7a10c64179.webp",
+      "localImage": "assets/images/435829-68b7a10c64179.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Sports injuries vary widely depending on the intensity of training, type of sport, and individual biomechanics. Common conditions managed under this service include:",
+          "items": [
+            "Ligament tears such as ACL, PCL, and ankle ligament injuries.",
+            "Meniscus injuries caused by twisting or high-impact movements.",
+            "Cartilage injuries that can impair joint health and performance.",
+            "Shoulder and knee dislocations, often common in contact sports.",
+            "Rotator cuff tears, leading to pain and restricted movement.",
+            "Overuse injuries like tendinitis and stress fractures.",
+            "Chronic pain and swelling that affect training and competition."
+          ],
+          "outro": "By addressing both acute injuries and long-term wear and tear, Dr. Nithin ensures athletes receive comprehensive care.",
+          "allParagraphs": [
+            "Sports injuries vary widely depending on the intensity of training, type of sport, and individual biomechanics. Common conditions managed under this service include:",
+            "By addressing both acute injuries and long-term wear and tear, Dr. Nithin ensures athletes receive comprehensive care."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "The focus of Elite Sports Injury Management is precision, innovation, and faster recovery. Treatments include:",
+          "items": [
+            "Minimally invasive arthroscopy for knee, shoulder, ankle, and elbow injuries.",
+            "ACL reconstruction and revision surgeries for restoring stability and function.",
+            "Meniscus repair and preservation techniques to protect joint health.",
+            "Cartilage repair and regeneration surgery using modern biologics.",
+            "Robotic-assisted orthopedic surgeries for unmatched accuracy and faster recovery.",
+            "Regenerative therapies like Platelet-Rich Plasma (PRP) and stem cell treatments for natural healing.",
+            "Rehabilitation programs focused on strength, mobility, and sport-specific performance."
+          ],
+          "outro": "Each treatment plan is personalized, taking into account the athlete’s training schedule, career goals, and long-term joint health.",
+          "allParagraphs": [
+            "The focus of Elite Sports Injury Management is precision, innovation, and faster recovery. Treatments include:",
+            "Each treatment plan is personalized, taking into account the athlete’s training schedule, career goals, and long-term joint health."
+          ]
+        },
+        "procedureTab": {
+          "intro": "",
+          "items": [
+            "Dr. Nithin Kumar Bejjanki has trained extensively in world-renowned centers in the UK, including Birmingham, Sheffield, Yorkshire, and London. His specialized shoulder fellowship under Dr. Andrew Wallace and knee fellowship under Dr. Andy Williams, both global leaders in sports orthopedics, make him one of the most skilled surgeons in his field.",
+            "Having treated numerous international athletes, he understands the urgency and precision required in managing sports injuries. His ethical and meticulous approach ensures that surgery is only recommended when absolutely necessary, with a strong focus on preserving natural structures and restoring maximum performance.",
+            "Athletes are guided step by step, from diagnosis and treatment to rehabilitation and safe return to play. The integration of physiotherapy, nutrition counseling, and mental conditioning makes his approach truly holistic."
+          ],
+          "outro": ""
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "How long does recovery take?Recovery varies depending on the type of injury and procedure. While minor injuries may take a few weeks, ligament reconstructions or cartilage procedures may require several months of guided rehabilitation.",
+            "Is surgery always required?Not every sports injury needs surgery. Many cases can be effectively managed through physiotherapy, regenerative injections, and rehabilitation programs. Surgery is considered only when conservative treatment fails or when the injury threatens long-term performance.",
+            "Why choose Dr. Nithin Kumar Bejjanki?He is not only internationally trained but also deeply passionate about sports and fitness. Having been a competitive athlete himself, he understands the mindset of professionals and the importance of a safe, effective, and timely return to sport. His reputation for ethical practice, precision surgeries, and athlete-focused care has made him the preferred orthopedic surgeon for many elite sports professionals."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "frozen-shoulder-treatment",
+      "file": "page_frozen-shoulder-treatment_.html",
+      "title": "Frozen Shoulder Treatment",
+      "category": "Shoulder Specialities",
+      "tagline": "Expert care to relieve pain, restore shoulder mobility, and regain strength safely and effectively.",
+      "overview": "Frozen Shoulder Treatment is a specialized orthopedic service focused on relieving stiffness, pain, and limited range of motion in the shoulder . Also called adhesive capsulitis , this condition commonly affects adults between 40–60 years and can result from injury, surgery, or chronic conditions like diabetes . Under the care of Dr. Nithin Kumar Bejjanki , treatment combines non-surgical therapy, minimally invasive procedures, and personalized rehabilitation to restore mobility, reduce pain, and improve quality of life .",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/27699-68b7b638a5265.webp",
+      "localImage": "assets/images/27699-68b7b638a5265.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Frozen Shoulder Treatment addresses patients with:",
+          "items": [
+            "Severe shoulder stiffness limiting daily activities",
+            "Pain at rest or during movement",
+            "Restricted range of motion in lifting, rotating, or reaching",
+            "Difficulty sleeping on the affected side",
+            "Shoulder weakness or muscle atrophy"
+          ],
+          "outro": "The goal is to restore functional shoulder movement while minimizing discomfort and preventing long-term disability.",
+          "allParagraphs": [
+            "Frozen Shoulder Treatment addresses patients with:",
+            "The goal is to restore functional shoulder movement while minimizing discomfort and preventing long-term disability."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Treatment depends on severity and stage of frozen shoulder:",
+          "items": [
+            "Physiotherapy and guided exercises to improve mobility",
+            "Pain management using medications or corticosteroid injections",
+            "Heat therapy and stretching programs",
+            "Activity modification to reduce strain",
+            "Arthroscopic capsular release for persistent stiffness",
+            "Manipulation under anesthesia to improve shoulder motion",
+            "Regenerative therapies like PRP injections for faster healing"
+          ],
+          "outro": "Early intervention ensures faster recovery and reduces the risk of permanent stiffness.",
+          "allParagraphs": [
+            "Treatment depends on severity and stage of frozen shoulder:",
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:",
+            "Early intervention ensures faster recovery and reduces the risk of permanent stiffness."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients are supported through each stage to ensure pain relief, improved mobility, and safe functional recovery.",
+          "items": [
+            "Comprehensive Assessment: Clinical evaluation, range of motion testing, and imaging if required",
+            "Treatment Planning: Choosing between conservative therapy or minimally invasive procedures",
+            "Intervention: Guided physiotherapy, injections, or arthroscopic surgery as indicated",
+            "Rehabilitation: Structured exercises and mobility programs to regain function",
+            "Follow-Up: Continuous monitoring of progress and adjustment of therapy to optimize recovery"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients are supported through each stage to ensure pain relief, improved mobility, and safe functional recovery."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Recovery varies: 6–12 months for full range of motion with consistent therapy.",
+            "Q2: Can frozen shoulder resolve without surgery?A: Yes, most cases improve with physiotherapy, medications, and gradual stretching, although some may require surgical intervention.",
+            "Q3: Is the treatment painful?A: Mild discomfort is expected during therapy, managed with pain medications and gradual stretching.",
+            "Q4: When can normal activities resume?A: Most patients regain daily activity function within 3–6 months, depending on severity and adherence to rehab.",
+            "Q5: Can frozen shoulder recur?A: Recurrence is rare but maintaining mobility exercises and regular follow-ups reduces the risk."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "knee-arthroscopy",
+      "file": "page_knee-arthroscopy_.html",
+      "title": "Knee Arthroscopy",
+      "category": "Knee Specialities",
+      "tagline": "Minimally invasive knee procedure to relieve pain, repair injuries, restore function, and ensure faster recovery safely.",
+      "overview": "Knee Arthroscopy is a minimally invasive surgical procedure used to diagnose and treat various knee joint problems. It allows surgeons to visualize, repair, or remove damaged tissue using small incisions, resulting in faster recovery, reduced pain, and minimal scarring . Led by Dr. Nithin Kumar Bejjanki , the procedure is ideal for patients with meniscus tears, ligament injuries, cartilage damage, or persistent knee pain.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/17617-68b7aaceedb11.webp",
+      "localImage": "assets/images/17617-68b7aaceedb11.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Knee Arthroscopy is recommended for patients experiencing:",
+          "items": [
+            "Meniscus tears causing pain, swelling, or locking",
+            "Anterior or posterior cruciate ligament injuries (ACL/PCL)",
+            "Cartilage damage or degeneration",
+            "Loose bodies within the joint",
+            "Persistent knee pain, swelling, or stiffness",
+            "Mechanical symptoms like catching, clicking, or instability"
+          ],
+          "outro": "The procedure helps relieve pain, restore function, and prevent further joint damage.",
+          "allParagraphs": [
+            "Knee Arthroscopy is recommended for patients experiencing:",
+            "The procedure helps relieve pain, restore function, and prevent further joint damage."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Knee Arthroscopy may involve:",
+          "items": [
+            "Meniscus repair or partial meniscectomy",
+            "Ligament reconstruction (ACL, PCL)",
+            "Cartilage repair or microfracture techniques",
+            "Synovial tissue removal for inflammation",
+            "Debridement of loose bodies or damaged tissue"
+          ],
+          "outro": "This minimally invasive approach is preferred over open surgery whenever feasible due to faster recovery and reduced complications.",
+          "allParagraphs": [
+            "Knee Arthroscopy may involve:",
+            "This minimally invasive approach is preferred over open surgery whenever feasible due to faster recovery and reduced complications."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients typically experience less pain, quicker mobilization, and shorter hospital stay compared to traditional knee surgery.",
+          "items": [
+            "Preoperative Assessment: Clinical evaluation, imaging, and fitness check",
+            "Anesthesia: General or regional anesthesia based on patient and procedure needs",
+            "Surgical Procedure: Small incisions allow insertion of arthroscope and instruments for repair or removal",
+            "Closure &amp; Dressing: Tiny incisions are closed with sutures and bandaged",
+            "Postoperative Care: Pain management, physiotherapy, and rehabilitation for optimal recovery"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients typically experience less pain, quicker mobilization, and shorter hospital stay compared to traditional knee surgery."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Most patients return to normal activities in 4–6 weeks, while sports-specific recovery may take 2–3 months.",
+            "Q2: Is Knee Arthroscopy painful?A: Pain is usually mild and managed with medications and physiotherapy.",
+            "Q3: What are the advantages of arthroscopy?A: Minimally invasive, less scarring, faster recovery, and precise treatment of knee injuries.",
+            "Q4: When can I start physiotherapy?A: Immediately or within a few days post-surgery, depending on the procedure.",
+            "Q5: Will knee function fully return?A: With proper rehab, most patients regain full mobility, strength, and activity level.",
+            "Knee Arthroscopy is a safe and effective procedure that allows athletes and patients to recover quickly, restore function, and resume active lifestyles."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "knee-pain-assessment",
+      "file": "page_knee-pain-assessment_.html",
+      "title": "Knee Pain Assessment",
+      "category": "Knee Specialities",
+      "tagline": "Accurate diagnosis and personalized care to relieve knee pain, restore mobility, and prevent future injuries.",
+      "overview": "Knee Pain Assessment is a specialized orthopedic service focused on accurate diagnosis and personalized treatment for individuals experiencing knee discomfort. Knee pain can result from injuries, overuse, or underlying conditions such as arthritis. Early assessment is crucial to prevent further damage, improve mobility, and restore optimal knee function . Under the guidance of Dr. Nithin Kumar Bejjanki , the service combines clinical evaluation, advanced imaging, and individualized care plans to address the root cause of pain and ensure effective recovery.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/2150321574-1-68b7aa09a42f9.webp",
+      "localImage": "assets/images/2150321574-1-68b7aa09a42f9.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Knee Pain Assessment is designed for patients experiencing:",
+          "items": [
+            "Persistent knee pain or swelling",
+            "Stiffness limiting mobility",
+            "Instability or locking of the knee joint",
+            "Pain during sporting activities or daily movement",
+            "History of ligament injuries, meniscus tears, or cartilage damage",
+            "Degenerative conditions such as osteoarthritis or post-traumatic arthritis"
+          ],
+          "outro": "This assessment helps identify the exact cause of pain and differentiate between injury-related, mechanical, or degenerative knee conditions.",
+          "allParagraphs": [
+            "Knee Pain Assessment is designed for patients experiencing:",
+            "This assessment helps identify the exact cause of pain and differentiate between injury-related, mechanical, or degenerative knee conditions."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Based on the assessment, treatment options may include:",
+          "items": [
+            "Targeted physiotherapy and rehabilitation programs",
+            "Pain management with medications or injections",
+            "Bracing or orthotic support to stabilize the joint",
+            "Activity modification and preventive strategies",
+            "Arthroscopic surgery for meniscus repair, ligament reconstruction, or cartilage repair",
+            "Knee realignment (osteotomy) for structural corrections",
+            "Partial or total knee replacement in advanced degenerative cases",
+            "Regenerative therapies such as PRP or stem cell injections to enhance healing"
+          ],
+          "outro": "Treatment is personalized according to the patient’s age, activity level, injury severity, and long-term goals.",
+          "allParagraphs": [
+            "Based on the assessment, treatment options may include:",
+            "Non-Surgical Management:",
+            "Surgical / Advanced Options:",
+            "Treatment is personalized according to the patient’s age, activity level, injury severity, and long-term goals."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients are guided through every step to understand their condition, treatment options, and expected outcomes.",
+          "items": [
+            "Initial Evaluation: Detailed history taking and physical examination",
+            "Diagnostic Imaging: X-ray, MRI, or CT scan to identify structural damage",
+            "Assessment of Function: Range of motion, stability tests, and gait analysis",
+            "Customized Treatment Plan: Deciding between conservative or surgical interventions",
+            "Implementation &amp; Monitoring: Therapy, procedures, and follow-ups to ensure recovery and prevent recurrence"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients are guided through every step to understand their condition, treatment options, and expected outcomes."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Minor injuries may recover in 2–6 weeks, while post-surgical recovery may take 3–6 months depending on the procedure.",
+            "Q2: Can I return to sports after treatment?A: Yes, with structured rehabilitation and monitoring, patients can safely resume activities.",
+            "Q3: Is surgery always necessary?A: No. Many conditions respond to conservative management, and surgery is recommended only when essential.",
+            "Q4: How is knee function monitored?A: Through regular follow-ups, physiotherapy progress, and functional tests to ensure optimal recovery.",
+            "Q5: Can knee pain be prevented?A: Yes, with strengthening exercises, proper biomechanics, and activity modifications, long-term knee health can be maintained.",
+            "Knee Pain Assessment ensures precise diagnosis, tailored treatment, and safe recovery, helping patients regain mobility, reduce pain, and restore knee function."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "ligament-tear-reconstruction-ankle",
+      "file": "page_ligament-tear-reconstruction-ankle_.html",
+      "title": "Ligament Tear Reconstruction (Ankle)",
+      "category": "Ankle & Elbow",
+      "tagline": "Specialized anatomic ligament reconstruction to restore ankle stability, prevent giving-way, and return to sports.",
+      "overview": "Ligament Tear Reconstruction (Ankle) is a specialized orthopedic procedure aimed at repairing torn or damaged ligaments that cause ankle instability, pain, or recurrent injuries . Ligament injuries commonly occur due to sports trauma, falls, or accidents and can lead to chronic instability if untreated. Under the expertise of Dr. Nithin Kumar Bejjanki , patients receive advanced surgical repair, minimally invasive techniques, and personalized rehabilitation programs to restore strength, stability, and normal ankle function , enabling safe return to daily activities or athletic performance.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/7109-5-68b7bea52ed3d-1.webp",
+      "localImage": "assets/images/7109-5-68b7bea52ed3d-1.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "This procedure addresses patients experiencing:",
+          "items": [
+            "Recurrent ankle sprains or instability",
+            "Persistent ankle pain after trauma",
+            "Swelling, bruising, or weakness",
+            "Ligament tears (lateral or medial)",
+            "Difficulty walking, running, or performing sports movements",
+            "Post-traumatic ankle instability"
+          ],
+          "outro": "The treatment goal is to restore ankle stability, prevent re-injury, and improve functional mobility.",
+          "allParagraphs": [
+            "This procedure addresses patients experiencing:",
+            "The treatment goal is to restore ankle stability, prevent re-injury, and improve functional mobility."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches (initially considered):",
+          "items": [
+            "Immobilization with braces or splints",
+            "Pain management using medications or anti-inflammatory therapy",
+            "Physiotherapy to strengthen surrounding muscles and improve balance",
+            "Activity modification to prevent further damage",
+            "Ligament reconstruction or repair using arthroscopic or open techniques",
+            "Tendon augmentation for added stability in severe cases",
+            "Bone anchor or graft procedures for chronic or complex ligament injuries",
+            "Regenerative therapies such as PRP injections to enhance healing"
+          ],
+          "outro": "The treatment approach is customized based on tear severity, patient age, activity level, and functional goals.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches (initially considered):",
+            "Surgical / Advanced Interventions:",
+            "The treatment approach is customized based on tear severity, patient age, activity level, and functional goals."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients benefit from expert surgical care combined with structured rehabilitation to achieve long-term ankle stability and function.",
+          "items": [
+            "Preoperative Assessment: Clinical evaluation, imaging (X-ray, MRI) to determine tear extent",
+            "Surgical Planning: Selection of minimally invasive or open ligament reconstruction technique",
+            "Surgical Procedure: Repair or reconstruction of damaged ligaments with sutures, anchors, or grafts",
+            "Closure &amp; Dressing: Incisions closed, ankle immobilized with splint or brace",
+            "Postoperative Rehabilitation: Gradual weight-bearing, physiotherapy for strength, balance, and mobility",
+            "Follow-Up: Monitoring healing progress, ensuring stability, and preventing recurrence"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients benefit from expert surgical care combined with structured rehabilitation to achieve long-term ankle stability and function."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take after ankle ligament reconstruction?A: Minor tears: 6–8 weeks; complex reconstructions may require 3–6 months for full activity.",
+            "Q2: Can I resume sports?A: Yes, under physiotherapy guidance, usually after 3–6 months, depending on severity and repair type.",
+            "Q3: Is surgery painful?A: Mild discomfort is expected and managed with medications and rehabilitation; minimally invasive techniques reduce pain.",
+            "Q4: Are non-surgical treatments effective?A: For partial tears, physiotherapy, bracing, and activity modification may suffice; surgery is required for complete or chronic tears.",
+            "Q5: How can I prevent future ankle injuries?A: Maintain strength, flexibility, proprioception exercises, wear supportive footwear, and gradually increase activity intensity."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "meniscus-repair",
+      "file": "page_meniscus-repair_.html",
+      "title": "Meniscus Repair & Preservation",
+      "category": "Knee Specialities",
+      "tagline": "Advanced arthroscopic meniscus repair and preservation to restore knee stability, relieve pain, and protect joint longevity.",
+      "overview": "Meniscus Repair is a specialized arthroscopic procedure designed to preserve and repair torn knee meniscus cartilage, restoring joint stability, cushioning, and preventing long-term osteoarthritic wear.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/2150321574-1-68b7aa09a42f9.webp",
+      "localImage": "assets/images/2150321574-1-68b7aa09a42f9.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Knee Pain Assessment is designed for patients experiencing:",
+          "items": [
+            "Persistent knee pain or swelling",
+            "Stiffness limiting mobility",
+            "Instability or locking of the knee joint",
+            "Pain during sporting activities or daily movement",
+            "History of ligament injuries, meniscus tears, or cartilage damage",
+            "Degenerative conditions such as osteoarthritis or post-traumatic arthritis"
+          ],
+          "outro": "This assessment helps identify the exact cause of pain and differentiate between injury-related, mechanical, or degenerative knee conditions.",
+          "allParagraphs": [
+            "Knee Pain Assessment is designed for patients experiencing:",
+            "This assessment helps identify the exact cause of pain and differentiate between injury-related, mechanical, or degenerative knee conditions."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Based on the assessment, treatment options may include:",
+          "items": [
+            "Targeted physiotherapy and rehabilitation programs",
+            "Pain management with medications or injections",
+            "Bracing or orthotic support to stabilize the joint",
+            "Activity modification and preventive strategies",
+            "Arthroscopic surgery for meniscus repair, ligament reconstruction, or cartilage repair",
+            "Knee realignment (osteotomy) for structural corrections",
+            "Partial or total knee replacement in advanced degenerative cases",
+            "Regenerative therapies such as PRP or stem cell injections to enhance healing"
+          ],
+          "outro": "Treatment is personalized according to the patient’s age, activity level, injury severity, and long-term goals.",
+          "allParagraphs": [
+            "Based on the assessment, treatment options may include:",
+            "Non-Surgical Management:",
+            "Surgical / Advanced Options:",
+            "Treatment is personalized according to the patient’s age, activity level, injury severity, and long-term goals."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients are guided through every step to understand their condition, treatment options, and expected outcomes.",
+          "items": [
+            "Initial Evaluation: Detailed history taking and physical examination",
+            "Diagnostic Imaging: X-ray, MRI, or CT scan to identify structural damage",
+            "Assessment of Function: Range of motion, stability tests, and gait analysis",
+            "Customized Treatment Plan: Deciding between conservative or surgical interventions",
+            "Implementation &amp; Monitoring: Therapy, procedures, and follow-ups to ensure recovery and prevent recurrence"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients are guided through every step to understand their condition, treatment options, and expected outcomes."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Minor injuries may recover in 2–6 weeks, while post-surgical recovery may take 3–6 months depending on the procedure.",
+            "Q2: Can I return to sports after treatment?A: Yes, with structured rehabilitation and monitoring, patients can safely resume activities.",
+            "Q3: Is surgery always necessary?A: No. Many conditions respond to conservative management, and surgery is recommended only when essential.",
+            "Q4: How is knee function monitored?A: Through regular follow-ups, physiotherapy progress, and functional tests to ensure optimal recovery.",
+            "Q5: Can knee pain be prevented?A: Yes, with strengthening exercises, proper biomechanics, and activity modifications, long-term knee health can be maintained.",
+            "Knee Pain Assessment ensures precise diagnosis, tailored treatment, and safe recovery, helping patients regain mobility, reduce pain, and restore knee function."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "patella-dislocation-management",
+      "file": "page_patella-dislocation-management_.html",
+      "title": "Patella Dislocation Management",
+      "category": "Knee Specialities",
+      "tagline": "Expert patella dislocation management to restore knee stability, relieve pain, prevent recurrence, and improve mobility",
+      "overview": "Patella Dislocation Management focuses on diagnosing, treating, and preventing recurrent dislocation of the kneecap (patella) . Patellar dislocation often occurs due to trauma, sports injuries, or anatomical variations , causing pain, swelling, and impaired knee function . Under the care of Dr. Nithin Kumar Bejjanki , patients receive expert evaluation, precise treatment planning, and structured rehabilitation , ensuring pain relief, restored stability, and safe return to daily activities or sports .",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/19896-68b7d71b52dc1.webp",
+      "localImage": "assets/images/19896-68b7d71b52dc1.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Patella dislocation management addresses patients with:",
+          "items": [
+            "Knee pain, swelling, or bruising after injury",
+            "Visible dislocation or deformity of the kneecap",
+            "Recurrent dislocations or subluxation",
+            "Instability during walking, running, or sports",
+            "Difficulty bending or straightening the knee",
+            "Associated ligament or cartilage injuries"
+          ],
+          "outro": "The goal is to restore knee stability, prevent recurrence, and maintain optimal joint function.",
+          "allParagraphs": [
+            "Patella dislocation management addresses patients with:",
+            "The goal is to restore knee stability, prevent recurrence, and maintain optimal joint function."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches:",
+          "items": [
+            "Immobilization using braces or splints to allow soft tissue healing",
+            "Pain management with medications or anti-inflammatory therapy",
+            "Physical therapy to strengthen quadriceps, hip, and core muscles",
+            "Activity modification to reduce the risk of recurrence",
+            "Medial Patellofemoral Ligament (MPFL) Reconstruction: Restores ligament stability",
+            "Lateral Release or Realignment Procedures: Corrects patellar tracking issues",
+            "Cartilage repair or microfracture if associated cartilage damage exists",
+            "Arthroscopic evaluation and repair for concurrent ligament or tendon injuries"
+          ],
+          "outro": "Treatment is tailored based on the severity, recurrence, and associated structural damage.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:",
+            "Treatment is tailored based on the severity, recurrence, and associated structural damage."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Effective management ensures pain relief, improved patellar tracking, and restored knee stability, allowing safe return to activities.",
+          "items": [
+            "Comprehensive Assessment: Clinical evaluation, imaging (X-ray, MRI) to determine extent of dislocation and associated injuries",
+            "Non-Surgical Management: Short-term immobilization followed by physiotherapy if first-time dislocation",
+            "Surgical Planning: Indicated for recurrent dislocations, severe instability, or failed conservative management",
+            "Surgical Procedure: Reconstruction or realignment of stabilizing structures using minimally invasive techniques",
+            "Postoperative Rehabilitation: Gradual weight-bearing, strengthening, and range-of-motion exercises",
+            "Follow-Up: Monitoring knee stability, functional recovery, and recurrence prevention"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Effective management ensures pain relief, improved patellar tracking, and restored knee stability, allowing safe return to activities."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long is recovery after patella dislocation management?A: Non-surgical recovery: 4–6 weeks; post-surgical rehabilitation: 3–6 months.",
+            "Q2: Can I return to sports?A: Yes, after structured physiotherapy and functional assessment, usually 3–6 months post-treatment.",
+            "Q3: Is surgery always necessary?A: No, first-time dislocations often respond to conservative management; surgery is for recurrent or severe cases.",
+            "Q4: How can recurrence be prevented?A: Strengthening quadriceps, hip, and core muscles, proper footwear, and avoiding high-risk movements initially.",
+            "Q5: Are there risks associated with surgery?A: Rare risks include infection, stiffness, or residual instability, minimized with expert surgical technique.",
+            "Patella Dislocation Management provides comprehensive care, restores knee stability, reduces pain, and ensures long-term functional mobility."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "regenerative-orthopedic-therapies-biologics-healing",
+      "file": "page_regenerative-orthopedic-therapies-biologics-healing_.html",
+      "title": "Regenerative Orthopedic Therapies",
+      "category": "Robotic & Regenerative Biologics",
+      "tagline": "Precise ACL repair and reconstruction to restore knee stability, strength, mobility, and safe return to sports.",
+      "overview": "Regenerative Orthopedic Therapies use biologic treatments to promote healing, repair damaged tissues, and restore joint function . These advanced therapies harness the body’s own stem cells, platelet-rich plasma (PRP), and growth factors to accelerate recovery, reduce inflammation, and regenerate cartilage, ligaments, and tendons . Under the guidance of Dr. Nithin Kumar Bejjanki , patients benefit from personalized treatment plans, minimally invasive procedures, and structured rehabilitation , ensuring enhanced healing and improved functional outcomes without traditional surgery.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/arm-treatment_1098-16885.avif",
+      "localImage": "assets/images/arm-treatment_1098-16885.avif",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "These therapies are suitable for patients experiencing:",
+          "items": [
+            "Osteoarthritis or cartilage degeneration",
+            "Ligament or tendon injuries",
+            "Chronic joint pain and inflammation",
+            "Sports injuries with slow healing",
+            "Post-traumatic joint damage",
+            "Early-stage arthritis or joint stiffness",
+            "Desire to avoid invasive surgery while restoring function"
+          ],
+          "outro": "The goal is to stimulate natural tissue repair, reduce pain, and improve mobility.",
+          "allParagraphs": [
+            "These therapies are suitable for patients experiencing:",
+            "The goal is to stimulate natural tissue repair, reduce pain, and improve mobility."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Biologic Therapies Include:",
+          "items": [
+            "Platelet-Rich Plasma (PRP) Injections: Concentrated growth factors to accelerate tissue healing",
+            "Stem Cell Therapy: Harvested from bone marrow or adipose tissue for cartilage and tendon regeneration",
+            "Bone Marrow Aspirate Concentrate (BMAC): Enhances repair in joint, tendon, and ligament injuries",
+            "Exosome Therapy: Promotes cellular regeneration and reduces inflammation",
+            "Combination Biologics: Customized treatments combining multiple regenerative approaches for optimal outcomes"
+          ],
+          "outro": "Treatment is personalized based on injury type, severity, patient age, and activity level, ensuring maximum therapeutic benefit.",
+          "allParagraphs": [
+            "Biologic Therapies Include:",
+            "Treatment is personalized based on injury type, severity, patient age, and activity level, ensuring maximum therapeutic benefit."
+          ]
+        },
+        "procedureTab": {
+          "intro": "These therapies often accelerate healing and improve joint function, reducing the need for invasive surgical procedures.",
+          "items": [
+            "Assessment: Detailed evaluation, imaging (X-ray, MRI, or CT), and discussion of patient goals",
+            "Biologic Harvesting: Collection of stem cells, bone marrow, or blood as required",
+            "Processing: Concentration and preparation of biologic material in a sterile environment",
+            "Injection / Application: Targeted delivery to injured joint, tendon, or ligament under imaging guidance",
+            "Post-Treatment Care: Rest, activity modification, and structured physiotherapy for optimal healing",
+            "Follow-Up: Monitoring pain relief, functional improvement, and tissue regeneration progress"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "These therapies often accelerate healing and improve joint function, reducing the need for invasive surgical procedures."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does it take to see results?A: Most patients notice pain relief and improved function within 4–12 weeks, with ongoing improvement over months.",
+            "Q2: Is the procedure painful?A: Minor discomfort is expected during injections; local anesthesia and post-procedure care minimize discomfort.",
+            "Q3: Are regenerative therapies safe?A: Yes, using the patient’s own biologics minimizes risk of rejection or allergic reaction.",
+            "Q4: Can these therapies replace surgery?A: In early or moderate cases, biologics can avoid or delay surgery, but severe joint damage may still require surgical intervention.",
+            "Q5: How long do the effects last?A: Results vary; most patients experience long-term pain relief and functional improvement, especially when combined with rehab.",
+            "Regenerative Orthopedic Therapies (Biologics &amp; Healing) offer advanced, minimally invasive solutions to accelerate healing, restore function, and improve quality of life."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "reverse-shoulder-replacement",
+      "file": "page_reverse-shoulder-replacement_.html",
+      "title": "Reverse Shoulder Replacement",
+      "category": "Shoulder Specialities",
+      "tagline": "Specialized reverse shoulder arthroplasty to restore arm elevation and relieve pain in complex cuff tear arthropathy.",
+      "overview": "Reverse Shoulder Replacement is a specialized surgical procedure designed for patients with complex shoulder arthritis and irreparable rotator cuff tears, restoring arm elevation, stability, and pain-free motion.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/2150321574-1-68b7aa09a42f9.webp",
+      "localImage": "assets/images/2150321574-1-68b7aa09a42f9.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Knee Pain Assessment is designed for patients experiencing:",
+          "items": [
+            "Persistent knee pain or swelling",
+            "Stiffness limiting mobility",
+            "Instability or locking of the knee joint",
+            "Pain during sporting activities or daily movement",
+            "History of ligament injuries, meniscus tears, or cartilage damage",
+            "Degenerative conditions such as osteoarthritis or post-traumatic arthritis"
+          ],
+          "outro": "This assessment helps identify the exact cause of pain and differentiate between injury-related, mechanical, or degenerative knee conditions.",
+          "allParagraphs": [
+            "Knee Pain Assessment is designed for patients experiencing:",
+            "This assessment helps identify the exact cause of pain and differentiate between injury-related, mechanical, or degenerative knee conditions."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Based on the assessment, treatment options may include:",
+          "items": [
+            "Targeted physiotherapy and rehabilitation programs",
+            "Pain management with medications or injections",
+            "Bracing or orthotic support to stabilize the joint",
+            "Activity modification and preventive strategies",
+            "Arthroscopic surgery for meniscus repair, ligament reconstruction, or cartilage repair",
+            "Knee realignment (osteotomy) for structural corrections",
+            "Partial or total knee replacement in advanced degenerative cases",
+            "Regenerative therapies such as PRP or stem cell injections to enhance healing"
+          ],
+          "outro": "Treatment is personalized according to the patient’s age, activity level, injury severity, and long-term goals.",
+          "allParagraphs": [
+            "Based on the assessment, treatment options may include:",
+            "Non-Surgical Management:",
+            "Surgical / Advanced Options:",
+            "Treatment is personalized according to the patient’s age, activity level, injury severity, and long-term goals."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients are guided through every step to understand their condition, treatment options, and expected outcomes.",
+          "items": [
+            "Initial Evaluation: Detailed history taking and physical examination",
+            "Diagnostic Imaging: X-ray, MRI, or CT scan to identify structural damage",
+            "Assessment of Function: Range of motion, stability tests, and gait analysis",
+            "Customized Treatment Plan: Deciding between conservative or surgical interventions",
+            "Implementation &amp; Monitoring: Therapy, procedures, and follow-ups to ensure recovery and prevent recurrence"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients are guided through every step to understand their condition, treatment options, and expected outcomes."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Minor injuries may recover in 2–6 weeks, while post-surgical recovery may take 3–6 months depending on the procedure.",
+            "Q2: Can I return to sports after treatment?A: Yes, with structured rehabilitation and monitoring, patients can safely resume activities.",
+            "Q3: Is surgery always necessary?A: No. Many conditions respond to conservative management, and surgery is recommended only when essential.",
+            "Q4: How is knee function monitored?A: Through regular follow-ups, physiotherapy progress, and functional tests to ensure optimal recovery.",
+            "Q5: Can knee pain be prevented?A: Yes, with strengthening exercises, proper biomechanics, and activity modifications, long-term knee health can be maintained.",
+            "Knee Pain Assessment ensures precise diagnosis, tailored treatment, and safe recovery, helping patients regain mobility, reduce pain, and restore knee function."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "revision-acl-surgery",
+      "file": "page_revision-acl-surgery_.html",
+      "title": "Revision ACL Surgery",
+      "category": "Knee Specialities",
+      "tagline": "MRCS(UK), FRCS(Tr&amp;Ortho), MCh Ortho, DSEM(International Olympic Committee).Fellowship shoulder(UK), Fellowship Knee (UK).",
+      "overview": "Revision ACL Surgery is a specialized procedure for patients who have had a previous ACL reconstruction but continue to experience knee instability, pain, or graft failure . This surgery aims to restore knee stability, correct previous complications, and enable safe return to athletic or daily activities . Performed by Dr. Nithin Kumar Bejjanki , the procedure uses advanced techniques and personalized rehabilitation plans for optimal outcomes.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/2151237498-68b7ad7557084-1-e1756880879149.webp",
+      "localImage": "assets/images/2151237498-68b7ad7557084-1-e1756880879149.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Revision ACL Surgery is recommended for patients with:",
+          "items": [
+            "Recurrent knee instability after previous ACL reconstruction",
+            "Persistent pain or swelling affecting function",
+            "Limited mobility or difficulty performing sports",
+            "Graft failure, malposition, or loosening from the initial surgery",
+            "Associated injuries such as meniscus tears or cartilage damage"
+          ],
+          "outro": "The procedure addresses both structural and functional issues, helping patients regain confidence in knee performance.",
+          "allParagraphs": [
+            "Revision ACL Surgery is recommended for patients with:",
+            "The procedure addresses both structural and functional issues, helping patients regain confidence in knee performance."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Treatment strategies include:",
+          "items": [
+            "Revision ACL reconstruction using autograft or allograft tissue",
+            "Correction of previous graft placement or fixation issues",
+            "Concurrent meniscus or cartilage repair if required",
+            "Minimally invasive arthroscopic techniques for precision",
+            "Postoperative rehabilitation focusing on strength, mobility, and gradual return to activity"
+          ],
+          "outro": "Each plan is customized based on the patient’s prior surgery, injury severity, and activity level.",
+          "allParagraphs": [
+            "Treatment strategies include:",
+            "Each plan is customized based on the patient’s prior surgery, injury severity, and activity level."
+          ]
+        },
+        "procedureTab": {
+          "intro": "The goal is safe recovery, improved knee stability, and minimized risk of re-injury.",
+          "items": [
+            "Preoperative Evaluation: Comprehensive assessment, imaging, and discussion of goals",
+            "Anesthesia: General or regional anesthesia based on procedure and patient needs",
+            "Surgical Procedure: Removal of failed graft and reconstruction with new graft",
+            "Closure &amp; Dressing: Small arthroscopic incisions closed and bandaged",
+            "Rehabilitation: Structured physiotherapy to restore strength, flexibility, and stability"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "The goal is safe recovery, improved knee stability, and minimized risk of re-injury."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Recovery is typically 6–12 months, depending on prior surgeries and adherence to rehabilitation.",
+            "Q2: Can I return to sports after revision surgery?A: Yes, with structured rehab and gradual progression, athletes can safely resume competitive activities.",
+            "Q3: Is revision surgery more complicated than primary ACL repair?A: Yes, it is technically more complex due to previous grafts, scar tissue, or bone changes.",
+            "Q4: How is recovery monitored?A: Through regular physiotherapy, functional tests, and follow-up imaging to track progress.",
+            "Q5: Will knee stability fully return?A: Most patients regain full stability, strength, and confidence with proper rehabilitation.",
+            "Revision ACL Surgery provides expert correction for failed ACL reconstructions, restoring knee stability and enabling safe return to sport or daily life."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "robotic-orthopedic-surgeries",
+      "file": "page_robotic-orthopedic-surgeries_.html",
+      "title": "Robotic Orthopedic Surgeries",
+      "category": "Robotic & Regenerative Biologics",
+      "tagline": "Sub-millimeter robotic precision for joint reconstructions ensuring faster recovery and prolonged implant survival.",
+      "overview": "Robotic-Assisted Orthopedic Surgery combines cutting-edge computer navigation and robotic precision to optimize implant positioning, protect surrounding ligaments, and ensure faster recovery with lasting durability.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/17131-68b7d2eb720a2.webp",
+      "localImage": "assets/images/17131-68b7d2eb720a2.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Robotic orthopedic surgeries are suitable for patients with:",
+          "items": [
+            "Severe osteoarthritis or degenerative joint disease",
+            "Knee, hip, or shoulder joint deformities",
+            "Ligament injuries or complex joint trauma",
+            "Failed previous joint replacements or revisions",
+            "Chronic pain affecting mobility and daily activities",
+            "High-performance athletes requiring precise joint restoration"
+          ],
+          "outro": "The goal is to restore function, reduce pain, and enhance precision in complex orthopedic procedures.",
+          "allParagraphs": [
+            "Robotic orthopedic surgeries are suitable for patients with:",
+            "The goal is to restore function, reduce pain, and enhance precision in complex orthopedic procedures."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Robotic Surgical Applications Include:",
+          "items": [
+            "Robotic-assisted joint replacements (knee, hip, shoulder)",
+            "Robotic-guided ligament repair or reconstruction",
+            "Complex revision surgeries for failed implants",
+            "Precision osteotomies and cartilage restoration procedures",
+            "Minimally invasive procedures with enhanced alignment and fit"
+          ],
+          "outro": "Robotic surgery is tailored based on patient anatomy, joint condition, and functional requirements, ensuring superior surgical accuracy.",
+          "allParagraphs": [
+            "Robotic Surgical Applications Include:",
+            "Robotic surgery is tailored based on patient anatomy, joint condition, and functional requirements, ensuring superior surgical accuracy."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Robotic technology ensures exact bone alignment, optimal implant positioning, and improved long-term joint durability, reducing complications and improving recovery times.",
+          "items": [
+            "Preoperative Assessment: Advanced imaging (CT, MRI) and 3D modeling for precise surgical planning",
+            "Surgical Preparation: Patient-specific planning, anesthesia, and robotic system calibration",
+            "Robotic-Assisted Procedure: Surgeon guides the robotic arm to perform precise cuts, implant placement, or repairs",
+            "Closure &amp; Dressing: Minimally invasive incisions closed, reducing scarring and soft tissue trauma",
+            "Postoperative Care: Early mobilization, pain management, and structured physiotherapy",
+            "Follow-Up: Continuous monitoring of implant alignment, healing, and functional progress"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Robotic technology ensures exact bone alignment, optimal implant positioning, and improved long-term joint durability, reducing complications and improving recovery times."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How is robotic surgery different from traditional surgery?A: Robotic surgery offers enhanced precision, minimally invasive techniques, and personalized joint alignment for better outcomes.",
+            "Q2: Is recovery faster with robotic-assisted surgery?A: Yes, most patients experience less pain, reduced hospital stay, and faster rehabilitation compared to conventional surgery.",
+            "Q3: Are robotic surgeries safe?A: Yes, when performed by experienced orthopedic surgeons, robotic procedures are highly safe with minimal complications.",
+            "Q4: Can robotic surgery be used for all joint replacements?A: It is applicable for knee, hip, and shoulder replacements, including complex or revision cases.",
+            "Q5: How soon can I return to daily activities?A: Many patients resume light daily activities within 2–4 weeks, with full functional recovery over 3–6 months."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "rotator-cuff-repair",
+      "file": "page_rotator-cuff-repair_.html",
+      "title": "Rotator Cuff Repair",
+      "category": "Shoulder Specialities",
+      "tagline": "Advanced rotator cuff repair to relieve pain, restore shoulder strength, mobility, and ensure full recovery",
+      "overview": "Rotator Cuff Repair is a specialized orthopedic procedure designed to treat tears or injuries in the rotator cuff tendons , which are crucial for shoulder stability and mobility . Rotator cuff injuries often result from trauma, repetitive overhead activity, or degenerative changes due to aging. Under the care of Dr. Nithin Kumar Bejjanki , patients benefit from advanced diagnostic evaluation, minimally invasive arthroscopic techniques, and personalized rehabilitation programs , ensuring effective recovery and restoration of shoulder function.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/58298-68b7b6f3044ec-1.webp",
+      "localImage": "assets/images/58298-68b7b6f3044ec-1.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Rotator Cuff Repair addresses patients with:",
+          "items": [
+            "Shoulder pain, especially when lifting the arm or performing overhead activities",
+            "Weakness or loss of shoulder strength",
+            "Limited range of motion or stiffness",
+            "Pain at night, affecting sleep",
+            "Partial or full-thickness rotator cuff tears",
+            "Shoulder injuries from sports, accidents, or degenerative conditions"
+          ],
+          "outro": "This service targets both traumatic injuries and chronic degenerative tears, helping patients regain strength, stability, and normal shoulder function.",
+          "allParagraphs": [
+            "Rotator Cuff Repair addresses patients with:",
+            "This service targets both traumatic injuries and chronic degenerative tears, helping patients regain strength, stability, and normal shoulder function."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches:",
+          "items": [
+            "Physical therapy to strengthen surrounding muscles and restore mobility",
+            "Pain management through anti-inflammatory medications or steroid injections",
+            "Activity modification to reduce strain and prevent further injury",
+            "Arthroscopic rotator cuff repair for minimally invasive tendon repair",
+            "Open surgical repair in complex or large tears",
+            "Tendon transfer or grafting for irreparable injuries",
+            "Regenerative therapies like PRP injections to support healing"
+          ],
+          "outro": "The choice of treatment depends on tear size, patient age, activity level, and functional goals.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:",
+            "The choice of treatment depends on tear size, patient age, activity level, and functional goals."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients typically experience reduced pain, improved mobility, and gradual return to normal activities within a structured recovery timeline.",
+          "items": [
+            "Initial Assessment: Comprehensive history, physical examination, and imaging (MRI or ultrasound)",
+            "Surgical Planning: Selecting arthroscopic or open repair technique based on tear severity",
+            "Surgical Procedure: Repairing torn tendons using sutures, anchors, or grafts under anesthesia",
+            "Closure &amp; Dressing: Small incisions closed and bandaged (for arthroscopic repair)",
+            "Rehabilitation: Structured physiotherapy program to restore range of motion, strength, and function"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients typically experience reduced pain, improved mobility, and gradual return to normal activities within a structured recovery timeline."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take after rotator cuff repair?A: Most patients regain daily activity in 3–4 months, while full strength and overhead function may take 6–9 months.",
+            "Q2: Can I avoid surgery?A: Minor or partial tears may improve with physical therapy and conservative treatment, but surgery is recommended for full-thickness tears or persistent pain.",
+            "Q3: How soon can I start physiotherapy?A: Gentle passive exercises usually begin within a week post-surgery, with gradual strengthening over several months.",
+            "Q4: Are there risks associated with surgery?A: Complications are rare but may include infection, stiffness, or re-tear; proper post-op care reduces risk.",
+            "Q5: When can I resume sports or heavy activity?A: Return to sports typically occurs 6–9 months, depending on injury severity, repair type, and adherence to rehabilitation.",
+            "Q6: Will shoulder function fully return?A: Most patients regain significant pain relief, mobility, and strength, enabling safe return to daily and sports activities."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "shoulder-arthroscopy",
+      "file": "page_shoulder-arthroscopy_.html",
+      "title": "Shoulder Arthroscopy",
+      "category": "Shoulder Specialities",
+      "tagline": "Minimally invasive shoulder arthroscopy to relieve pain, repair injuries, restore function, strength, and mobility safely",
+      "overview": "Shoulder Arthroscopy is a minimally invasive orthopedic procedure used to diagnose and treat a wide range of shoulder problems . It involves the use of a small camera (arthroscope) and specialized instruments inserted through tiny incisions, allowing precise repair of injuries with minimal tissue damage . Under the expertise of Dr. Nithin Kumar Bejjanki , patients benefit from advanced arthroscopic techniques, faster recovery, and personalized rehabilitation programs , ensuring improved shoulder function, reduced pain, and early return to daily activities or sports.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/arthroscopy_shoulder_04.jpg",
+      "localImage": "assets/images/arthroscopy_shoulder_04.jpg",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Shoulder Arthroscopy addresses patients with:",
+          "items": [
+            "Rotator cuff tears and tendon injuries",
+            "Labral tears causing instability",
+            "Shoulder impingement or bursitis",
+            "Frozen shoulder (adhesive capsulitis)",
+            "Recurrent dislocations or instability",
+            "Cartilage or bone damage requiring debridement",
+            "Persistent pain or restricted mobility despite conservative therapy"
+          ],
+          "outro": "The treatment aims to restore function, relieve pain, and prevent further joint degeneration.",
+          "allParagraphs": [
+            "Shoulder Arthroscopy addresses patients with:",
+            "The treatment aims to restore function, relieve pain, and prevent further joint degeneration."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches (before surgery):",
+          "items": [
+            "Physical therapy to improve strength and range of motion",
+            "Pain management with medications or injections",
+            "Activity modification to reduce strain on the shoulder",
+            "Rotator cuff repair for partial or complete tears",
+            "Labral repair or stabilization for shoulder instability",
+            "Debridement of cartilage or inflamed tissue",
+            "Removal of bone spurs or impinging structures",
+            "Capsular release for frozen shoulder",
+            "Regenerative therapies such as PRP injections to support healing"
+          ],
+          "outro": "Treatment is personalized based on patient age, activity level, and severity of shoulder pathology.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches (before surgery):",
+            "Surgical / Arthroscopic Interventions:",
+            "Treatment is personalized based on patient age, activity level, and severity of shoulder pathology."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients experience less postoperative pain, shorter hospital stay, and faster return to daily and sporting activities compared to open surgery.",
+          "items": [
+            "Preoperative Assessment: Clinical evaluation, imaging (MRI or X-ray), and discussion of goals",
+            "Anesthesia: General or regional anesthesia",
+            "Surgical Procedure: Small incisions are made, and arthroscope and instruments are inserted for precise repair",
+            "Closure &amp; Dressing: Tiny incisions closed with sutures or adhesive strips; shoulder bandaged",
+            "Postoperative Rehabilitation: Early mobilization, guided physiotherapy to restore range of motion, strength, and function",
+            "Follow-Up: Regular monitoring to ensure recovery and prevent complications"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients experience less postoperative pain, shorter hospital stay, and faster return to daily and sporting activities compared to open surgery."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take after shoulder arthroscopy?A: Most patients regain functional movement within 6–12 weeks, with full strength over 3–6 months.",
+            "Q2: Is arthroscopy painful?A: Mild discomfort is managed with pain medication and physiotherapy; minimally invasive technique reduces overall pain.",
+            "Q3: Can I return to sports?A: Gradual return is possible after 3–6 months, depending on procedure type and rehabilitation.",
+            "Q4: Are there risks with shoulder arthroscopy?A: Rare risks include infection, stiffness, or nerve injury, minimized with experienced surgical technique.",
+            "Q5: How effective is arthroscopy compared to open surgery?A: Arthroscopy provides equally effective outcomes with faster recovery, less scarring, and lower complication rates.",
+            "Shoulder Arthroscopy offers expert minimally invasive care, effectively treating a wide range of shoulder injuries and restoring pain-free function."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "shoulder-dislocation-instability",
+      "file": "page_shoulder-dislocation-instability_.html",
+      "title": "Shoulder Dislocation & Instability",
+      "category": "Shoulder Specialities",
+      "tagline": "Expert care to restore shoulder stability, prevent recurrent dislocations, relieve pain, and regain full mobility safely.",
+      "overview": "Shoulder Dislocation &amp; Instability is a specialized orthopedic service focused on diagnosing, managing, and preventing recurrent shoulder dislocations . The shoulder joint, being highly mobile, is prone to dislocations due to trauma, sports injuries, or repetitive overhead activities . Under the expertise of Dr. Nithin Kumar Bejjanki , patients receive accurate diagnosis, advanced surgical or non-surgical treatment, and personalized rehabilitation programs , ensuring restoration of stability, strength, and functional mobility in the shoulder joint.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/9518-68b7b8466ee61-1.webp",
+      "localImage": "assets/images/9518-68b7b8466ee61-1.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "This service is designed for patients experiencing:",
+          "items": [
+            "Repeated shoulder dislocations or subluxations",
+            "Pain and swelling following dislocation",
+            "Instability during overhead or rotational movements",
+            "Loss of strength or range of motion",
+            "Labral tears or ligament injuries associated with instability",
+            "Post-traumatic or congenital shoulder instability"
+          ],
+          "outro": "The goal is to prevent further dislocations, relieve pain, and restore confidence in shoulder function.",
+          "allParagraphs": [
+            "This service is designed for patients experiencing:",
+            "The goal is to prevent further dislocations, relieve pain, and restore confidence in shoulder function."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Treatment depends on the cause, severity, and frequency of dislocations:",
+          "items": [
+            "Immobilization after initial dislocation",
+            "Pain management using medications or injections",
+            "Physiotherapy and strengthening exercises to stabilize the joint",
+            "Activity modification to prevent recurrence",
+            "Arthroscopic Bankart repair for labral tears",
+            "Capsular shift or tightening procedures for recurrent instability",
+            "Remplissage or Latarjet procedure for bone loss or severe instability",
+            "Reverse or total shoulder stabilization in complex or chronic cases"
+          ],
+          "outro": "Treatment is customized based on patient age, activity level, and functional goals.",
+          "allParagraphs": [
+            "Treatment depends on the cause, severity, and frequency of dislocations:",
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:",
+            "Treatment is customized based on patient age, activity level, and functional goals."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients benefit from personalized care plans that balance effective treatment and safe return to activities.",
+          "items": [
+            "Comprehensive Assessment: Clinical evaluation, imaging (X-ray, MRI), and history of dislocations",
+            "Treatment Planning: Determining conservative management versus surgical intervention",
+            "Surgical Procedure: Repair or reconstruction of torn ligaments, labrum, or stabilizing structures",
+            "Postoperative Care: Pain management, immobilization, and structured physiotherapy",
+            "Rehabilitation: Gradual progression from passive motion to active strengthening and sports-specific training",
+            "Follow-Up: Regular monitoring to prevent recurrence and ensure full functional recovery"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients benefit from personalized care plans that balance effective treatment and safe return to activities."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How soon can I move my shoulder after dislocation?A: Initial immobilization is 2–4 weeks, followed by gradual physiotherapy to restore motion.",
+            "Q2: Will surgery completely prevent recurrence?A: Surgery significantly reduces risk, especially for athletes or patients with recurrent dislocations.",
+            "Q3: How long until I can resume sports?A: Most patients return to sports safely in 4–6 months, depending on repair type and rehab.",
+            "Q4: Are non-surgical treatments effective?A: Yes, mild or first-time dislocations often improve with physiotherapy and strengthening exercises.",
+            "Q5: What are the risks of surgery?A: Potential risks include infection, stiffness, or mild instability, minimized with careful surgical technique and rehab.",
+            "Q6: How do I prevent future dislocations?A: Maintain shoulder strength, flexibility, and proper biomechanics as guided by your physiotherapist."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "shoulder-pain-treatment",
+      "file": "page_shoulder-pain-treatment_.html",
+      "title": "Shoulder Pain Treatment",
+      "category": "Shoulder Specialities",
+      "tagline": "Comprehensive clinical evaluation and targeted non-surgical & surgical relief for acute and chronic shoulder pain.",
+      "overview": "Shoulder Pain Treatment is a specialized orthopedic service focused on diagnosing, managing, and relieving shoulder pain caused by injuries, overuse, or degenerative conditions. The shoulder is one of the most mobile joints in the body, making it prone to rotator cuff injuries, dislocations, and arthritis . Led by Dr. Nithin Kumar Bejjanki , the service combines advanced diagnostics, personalized therapy, and surgical interventions when necessary to restore function, reduce pain, and improve quality of life .",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/2149277825-68b7b5bbe4242.webp",
+      "localImage": "assets/images/2149277825-68b7b5bbe4242.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Treatment depends on the cause and severity of the condition:",
+          "items": [
+            "Physiotherapy and rehabilitation to improve strength and mobility",
+            "Pain management with medications or injections",
+            "Activity modification and ergonomic guidance",
+            "Regenerative therapies such as PRP or stem cell injections",
+            "Arthroscopic repair for rotator cuff tears or labral injuries",
+            "Shoulder stabilization surgery for recurrent dislocations",
+            "Partial or total shoulder replacement for advanced arthritis",
+            "Minimally invasive procedures to reduce downtime and promote faster recovery"
+          ],
+          "outro": "Surgical / Advanced Interventions:",
+          "allParagraphs": [
+            "Treatment depends on the cause and severity of the condition:",
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:"
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Treatment depends on the cause and severity of the condition:",
+          "items": [
+            "Physiotherapy and rehabilitation to improve strength and mobility",
+            "Pain management with medications or injections",
+            "Activity modification and ergonomic guidance",
+            "Regenerative therapies such as PRP or stem cell injections",
+            "Arthroscopic repair for rotator cuff tears or labral injuries",
+            "Shoulder stabilization surgery for recurrent dislocations",
+            "Partial or total shoulder replacement for advanced arthritis",
+            "Minimally invasive procedures to reduce downtime and promote faster recovery"
+          ],
+          "outro": "Surgical / Advanced Interventions:",
+          "allParagraphs": [
+            "Treatment depends on the cause and severity of the condition:",
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:"
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients are guided at every step to ensure understanding, comfort, and optimal outcomes.",
+          "items": [
+            "Comprehensive Assessment: Clinical evaluation, imaging, and functional tests",
+            "Treatment Planning: Deciding between conservative or surgical intervention",
+            "Surgical Procedure (if needed): Arthroscopic or open surgery to repair damaged tissue",
+            "Postoperative Care: Pain management, physiotherapy, and structured rehabilitation",
+            "Follow-Up: Monitoring progress, ensuring proper recovery, and preventing reinjury"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients are guided at every step to ensure understanding, comfort, and optimal outcomes."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Minor injuries may recover in 2–6 weeks, while surgical interventions may require 3–6 months.",
+            "Q2: Can I return to sports or work?A: Yes, with structured rehabilitation and gradual return protocols tailored to activity level.",
+            "Q3: Is shoulder surgery painful?A: Pain is usually manageable with medications and physiotherapy, and minimally invasive techniques reduce discomfort.",
+            "Q4: Are non-surgical treatments effective?A: Yes, many conditions respond to physiotherapy, injections, and lifestyle modifications without the need for surgery.",
+            "Q5: Will shoulder function fully return?A: With proper treatment and rehab, most patients regain full mobility, strength, and daily activity function.",
+            "Shoulder Pain Treatment provides expert care, accurate diagnosis, and individualized recovery plans, helping patients regain pain-free mobility and restore shoulder function."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "sports-injury-treatment",
+      "file": "page_sports-injury-treatment_.html",
+      "title": "Sports Injury Treatment",
+      "category": "Sports Medicine & Recovery",
+      "tagline": "Specialized care for sports injuries, combining expert diagnosis, advanced treatment, rehabilitation, and prevention strategies to restore peak athletic performance safely",
+      "overview": "Sports injuries can affect athletes and fitness enthusiasts at any level, from professionals to those pursuing active lifestyles. They often occur due to overuse, accidents, or sudden impact during physical activity. At AcePlus Clinic, under the care of Dr. Nithin Kumar Bejjanki (MRCS UK, FRCS Tr&amp;Ortho, MCh Ortho, IOC DSEM) , patients receive world-class treatment tailored to restore function, reduce pain, and ensure a safe return to activity. With his international training in the UK and expertise in arthroscopy, regenerative therapies, and advanced orthopedic procedures, Dr. Nithin is a trusted specialist in sports injury care.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/420183-68b7a04176b1e.webp",
+      "localImage": "assets/images/420183-68b7a04176b1e.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Sports injuries can range from mild sprains to complex ligament tears. Common conditions managed include:",
+          "items": [
+            "Muscle strains and sprains",
+            "Ligament injuries (ACL, PCL, MCL, ankle ligaments)",
+            "Meniscus tears and cartilage injuries",
+            "Shoulder dislocations and rotator cuff tears",
+            "Tendinitis and overuse injuries",
+            "Stress fractures and bone injuries",
+            "Chronic joint pain and swelling",
+            "Frozen shoulder and joint stiffness"
+          ],
+          "outro": "By addressing both acute injuries and long-term sports-related conditions, patients receive comprehensive orthopedic care.",
+          "allParagraphs": [
+            "Sports injuries can range from mild sprains to complex ligament tears. Common conditions managed include:",
+            "By addressing both acute injuries and long-term sports-related conditions, patients receive comprehensive orthopedic care."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Dr. Nithin believes in a patient-first, ethical approach where treatment is personalized and surgery is only performed when necessary. Options include:",
+          "items": [
+            "Conservative treatments – Rest, physiotherapy, bracing, and medication.",
+            "Arthroscopic procedures – Minimally invasive surgeries for knee, shoulder, ankle, and elbow injuries.",
+            "ACL repair and reconstruction – Advanced techniques, including revision surgeries for failed ACLs.",
+            "Cartilage repair and regeneration – Biologic solutions to restore joint health.",
+            "Regenerative therapies – PRP (Platelet Rich Plasma) and stem cell-based treatments to accelerate natural healing.",
+            "Robotic-assisted surgeries – For precision and faster recovery.",
+            "Sports rehabilitation – Customized recovery programs focusing on strength, flexibility, and sport-specific performance."
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Dr. Nithin believes in a patient-first, ethical approach where treatment is personalized and surgery is only performed when necessary. Options include:"
+          ]
+        },
+        "procedureTab": {
+          "intro": "",
+          "items": [
+            "Dr. Nithin’s surgical expertise is backed by extensive international fellowships under world-renowned surgeons such as Dr. Andrew Wallace (Shoulder Fellowship – London) and Dr. Andy Williams (Knee Fellowship – London). His experience spans managing complex shoulder trauma, ACL reconstructions, meniscus preservation, and advanced arthroscopic surgeries.",
+            "Having treated international athletes, including medal-winning professionals, Dr. Nithin understands the urgency of sports recovery. He combines surgical precision with athlete-centered rehabilitation programs, ensuring patients not only heal but also return to their peak level of performance. His holistic approach integrates orthopedic care, physiotherapy, nutrition, and mental conditioning to maximize outcomes."
+          ],
+          "outro": ""
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "How soon can I return to sport?Recovery depends on the type and severity of injury. Minor injuries may heal in weeks, while ligament or cartilage surgeries may require several months of structured rehabilitation.",
+            "Can all sports injuries be treated without surgery?Not all. While many can be managed with physiotherapy and regenerative treatments, some injuries—like complete ligament tears—may need surgical repair for long-term stability and performance.",
+            "Why choose Dr. Nithin Kumar Bejjanki?He is regarded as one of the most ethical and skilled orthopedic surgeons, with global training and hands-on experience treating elite athletes. His background as a former national-level lawn tennis player gives him unique insight into sports medicine, making him the preferred choice for professionals and active individuals alike."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "sports-nutrition-recovery-guidance",
+      "file": "page_sports-nutrition-recovery-guidance_.html",
+      "title": "Sports Nutrition & Recovery Guidance",
+      "category": "Sports Medicine & Recovery",
+      "tagline": "Personalized nutrition and recovery strategies to enhance performance, prevent injuries, accelerate healing, and sustain peak athletic fitness safely.",
+      "overview": "Sports Nutrition &amp; Recovery Guidance is a specialized program designed to enhance athletic performance, speed up recovery, and maintain overall health . Proper nutrition and recovery strategies are essential for preventing injuries, improving endurance, and supporting long-term performance in professional and high-performance athletes. This program integrates personalized dietary planning, recovery protocols, and performance monitoring to optimize every athlete’s potential.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/3801335-68b7a9117f366.webp",
+      "localImage": "assets/images/3801335-68b7a9117f366.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "This program is ideal for athletes experiencing:",
+          "items": [
+            "Fatigue or low energy levels affecting training or competition",
+            "Delayed recovery after intense workouts or injuries",
+            "Muscle soreness, stiffness, or chronic fatigue",
+            "Frequent minor injuries or overuse syndromes",
+            "Nutritional deficiencies impacting strength, endurance, or focus"
+          ],
+          "outro": "It is suitable for professional, elite, and recreational athletes across all sports, helping them maximize performance while reducing injury risk and improving overall wellbeing.",
+          "allParagraphs": [
+            "This program is ideal for athletes experiencing:",
+            "It is suitable for professional, elite, and recreational athletes across all sports, helping them maximize performance while reducing injury risk and improving overall wellbeing."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Sports Nutrition &amp; Recovery Guidance combines personalized nutrition and recovery strategies:",
+          "items": [
+            "Tailored meal plans based on sport, energy needs, and training intensity",
+            "Guidance on macronutrients, micronutrients, and hydration",
+            "Safe supplementation where required",
+            "Structured sleep, rest, and active recovery programs",
+            "Monitoring fatigue, performance, and injury risk",
+            "Regenerative support through anti-inflammatory foods and recovery aids"
+          ],
+          "outro": "All plans are customized to the athlete’s schedule, goals, and type of sport, ensuring maximum benefit with minimal downtime.",
+          "allParagraphs": [
+            "Sports Nutrition &amp; Recovery Guidance combines personalized nutrition and recovery strategies:",
+            "Nutrition-Based Approaches:",
+            "Recovery-Based Approaches:",
+            "All plans are customized to the athlete’s schedule, goals, and type of sport, ensuring maximum benefit with minimal downtime."
+          ]
+        },
+        "procedureTab": {
+          "intro": "",
+          "items": [
+            "Comprehensive Assessment: Evaluating diet, training load, recovery habits, and performance goals",
+            "Plan Development: Designing a personalized nutrition and recovery plan aligned with sport-specific demands",
+            "Implementation: Integrating dietary and recovery protocols with training schedules",
+            "Monitoring: Regular tracking of energy levels, recovery, performance, and injury prevention",
+            "Adjustment: Modifying the plan based on progress, feedback, and upcoming competitions"
+          ],
+          "outro": "",
+          "allParagraphs": []
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How soon will I notice results?A: Athletes typically observe improved energy, endurance, and recovery within a few weeks of consistent adherence.",
+            "Q2: Is this program suitable for all athletes?A: Yes, it is customized for professional, elite, and recreational athletes across various sports disciplines.",
+            "Q3: Are supplements necessary?A: Supplements are recommended only if required, with a priority on nutrition from whole foods.",
+            "Q4: How is recovery monitored?A: Recovery is tracked using training performance, fatigue levels, and injury incidence, ensuring effective adjustments to plans.",
+            "Q5: Can this program help prevent injuries?A: Yes, tailored nutrition and recovery strategies reduce overuse injuries, enhance healing, and support long-term performance."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "tibial-osteotomy-knee-realignment",
+      "file": "page_tibial-osteotomy-knee-realignment_.html",
+      "title": "Tibial Osteotomy (Knee Realignment)",
+      "category": "Knee Specialities",
+      "tagline": "Precision High Tibial Osteotomy (HTO) to realign knee mechanical axis, offload damaged compartments, and delay joint replacement.",
+      "overview": "Tibial Osteotomy (Knee Realignment) is a specialized orthopedic procedure designed to correct knee alignment issues , relieve joint pain , and delay or prevent the progression of osteoarthritis . It involves surgically cutting and reshaping the tibia (shinbone) to redistribute weight across the knee joint, reducing stress on damaged cartilage. Under the expertise of Dr. Nithin Kumar Bejjanki , patients benefit from precise surgical planning, minimally invasive techniques, and personalized rehabilitation programs , enabling pain relief, improved mobility, and enhanced joint function .",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/2599-68b7d6983211c.webp",
+      "localImage": "assets/images/2599-68b7d6983211c.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Tibial Osteotomy is recommended for patients experiencing:",
+          "items": [
+            "Medial or lateral knee pain due to misalignment",
+            "Early osteoarthritis affecting one side of the knee",
+            "Bow-legged (varus) or knock-kneed (valgus) deformities",
+            "Instability or uneven weight distribution in the knee",
+            "Limited mobility and difficulty performing daily activities",
+            "Persistent pain despite conservative treatments"
+          ],
+          "outro": "The goal is to realign the knee, relieve stress on damaged cartilage, and preserve joint longevity.",
+          "allParagraphs": [
+            "Tibial Osteotomy is recommended for patients experiencing:",
+            "The goal is to realign the knee, relieve stress on damaged cartilage, and preserve joint longevity."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches:",
+          "items": [
+            "Pain management with medications or injections",
+            "Physical therapy to strengthen muscles supporting the knee",
+            "Bracing and activity modification to reduce joint stress",
+            "Weight management to relieve pressure on the knee",
+            "High Tibial Osteotomy (HTO): Corrects varus deformity",
+            "Distal Tibial Osteotomy (DTO): Corrects valgus deformity",
+            "Arthroscopic-assisted realignment: Minimally invasive techniques for precise correction",
+            "Combination with cartilage or ligament repair to optimize knee function"
+          ],
+          "outro": "The procedure is personalized based on the severity of deformity, cartilage condition, patient age, and activity level.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches:",
+            "Surgical / Advanced Interventions:",
+            "The procedure is personalized based on the severity of deformity, cartilage condition, patient age, and activity level."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Tibial osteotomy reduces pressure on affected knee compartments, improves function, and delays the need for total knee replacement.",
+          "items": [
+            "Preoperative Assessment: Clinical evaluation, X-rays, and CT scans to determine precise alignment",
+            "Surgical Planning: Selection of osteotomy type and corrective angle",
+            "Surgical Procedure: Bone is cut, realigned, and fixed with plates or screws",
+            "Closure &amp; Dressing: Incision closed, knee immobilized with a brace or bandage",
+            "Postoperative Rehabilitation: Gradual weight-bearing, physiotherapy to restore strength, flexibility, and gait",
+            "Follow-Up: Regular imaging and monitoring to ensure proper healing and alignment"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Tibial osteotomy reduces pressure on affected knee compartments, improves function, and delays the need for total knee replacement."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long is recovery after tibial osteotomy?A: Partial weight-bearing usually begins 4–6 weeks, with full recovery in 3–6 months.",
+            "Q2: Will I regain normal knee function?A: Most patients experience significant pain relief and improved mobility, especially with structured rehab.",
+            "Q3: Is the surgery painful?A: Mild to moderate discomfort is expected and managed with medications and physiotherapy.",
+            "Q4: Can I return to sports?A: Low-impact activities can resume after 3–6 months; high-impact sports may require caution.",
+            "Q5: Are there risks associated with the procedure?A: Rare risks include infection, delayed bone healing, or hardware irritation, minimized with expert surgical technique.",
+            "Tibial Osteotomy (Knee Realignment) provides precise correction of knee alignment, pain relief, improved mobility, and long-term joint preservation."
+          ],
+          "outro": ""
+        }
+      }
+    },
+    {
+      "id": "total-shoulder-replacement",
+      "file": "page_total-shoulder-replacement_.html",
+      "title": "Total Shoulder Replacement",
+      "category": "Shoulder Specialities",
+      "tagline": "Anatomic total shoulder arthroplasty designed to relieve severe osteoarthritis and restore smooth, pain-free joint function.",
+      "overview": "Total Shoulder Replacement (also called shoulder arthroplasty) is a surgical procedure designed to replace damaged or arthritic shoulder joint surfaces with prosthetic components , restoring pain-free movement, strength, and function . This procedure is recommended for patients with severe osteoarthritis, rheumatoid arthritis, post-traumatic arthritis, or irreparable rotator cuff damage . Under the care of Dr. Nithin Kumar Bejjanki , patients benefit from advanced surgical techniques, personalized preoperative planning, and structured postoperative rehabilitation to achieve optimal shoulder mobility and quality of life.",
+      "image": "https://drnithin.com/wp-content/uploads/2025/09/2343-68b7b917636b1-300x288.webp",
+      "localImage": "assets/images/2343-68b7b917636b1-300x288.webp",
+      "tabData": {
+        "symptomsTab": {
+          "intro": "Total Shoulder Replacement is ideal for patients with:",
+          "items": [
+            "Severe shoulder pain that limits daily activities",
+            "Loss of shoulder motion or stiffness",
+            "Difficulty performing overhead or rotational movements",
+            "Arthritis-related joint degeneration",
+            "Irreparable rotator cuff injuries causing functional limitation",
+            "Post-traumatic arthritis after fractures or dislocations"
+          ],
+          "outro": "The goal is to relieve pain, restore function, and improve quality of life for patients with advanced shoulder disease.",
+          "allParagraphs": [
+            "Total Shoulder Replacement is ideal for patients with:",
+            "The goal is to relieve pain, restore function, and improve quality of life for patients with advanced shoulder disease."
+          ]
+        },
+        "treatmentsTab": {
+          "intro": "Non-Surgical / Conservative Approaches (before surgery):",
+          "items": [
+            "Medications such as anti-inflammatories or pain relievers",
+            "Corticosteroid injections to reduce inflammation",
+            "Physical therapy to maintain range of motion",
+            "Activity modification to reduce stress on the shoulder",
+            "Anatomic Total Shoulder Replacement for intact rotator cuff",
+            "Reverse Shoulder Replacement for irreparable rotator cuff or severe arthritis",
+            "Minimally invasive arthroplasty techniques to reduce recovery time",
+            "Custom prosthetic implants for optimal fit and long-term function"
+          ],
+          "outro": "The procedure is tailored based on patient age, activity level, and specific joint pathology.",
+          "allParagraphs": [
+            "Non-Surgical / Conservative Approaches (before surgery):",
+            "Surgical / Advanced Interventions:",
+            "The procedure is tailored based on patient age, activity level, and specific joint pathology."
+          ]
+        },
+        "procedureTab": {
+          "intro": "Patients typically experience significant pain relief and improved shoulder function within months of surgery.",
+          "items": [
+            "Preoperative Assessment: Comprehensive evaluation, imaging (X-ray, CT, MRI), and surgical planning",
+            "Anesthesia: General or regional anesthesia",
+            "Surgical Procedure: Replacement of humeral head and glenoid components with prosthetic implants",
+            "Closure &amp; Dressing: Incision closure, sterile dressing, and shoulder immobilization",
+            "Postoperative Rehabilitation: Gradual physiotherapy program to restore motion, strength, and function",
+            "Follow-Up: Regular monitoring to ensure proper implant positioning and recovery"
+          ],
+          "outro": "",
+          "allParagraphs": [
+            "Patients typically experience significant pain relief and improved shoulder function within months of surgery."
+          ]
+        },
+        "faqsTab": {
+          "intro": "",
+          "items": [
+            "Q1: How long does recovery take?A: Most patients regain functional shoulder movement in 3–6 months, with full strength over 6–12 months.",
+            "Q2: When can I resume daily activities?A: Light activities are usually possible within 6–8 weeks, while overhead or heavy tasks may take longer.",
+            "Q3: Is total shoulder replacement painful?A: Pain is managed with medications and structured physiotherapy, and minimally invasive techniques reduce discomfort.",
+            "Q4: How long does the implant last?A: Modern prosthetics typically last 15–20 years, depending on activity level and care.",
+            "Q5: Can I play sports after surgery?A: Low-impact sports are allowed after 6–9 months; high-impact activities should be discussed with your surgeon.",
+            "Q6: What are the risks of surgery?A: Rare complications include infection, dislocation, stiffness, or implant loosening, minimized with proper surgical technique and rehab."
+          ],
+          "outro": ""
+        }
+      }
+    }
+  ],
+  "blogs": [
+    {
+      "file": "clean_page_blogs_recognizing-rheumatoid-arthritis-symptoms-a-guide-for-the-general-public_.html.txt",
+      "title": "Recognizing Rheumatoid Arthritis Symptoms: A Guide for the General Public",
+      "image": "assets/images/17071096.jpg",
+      "date": "October 9, 2025",
+      "category": "Joint Health & Rheumatology",
+      "readTime": "5 min read",
+      "excerpt": "What is Rheumatoid Arthritis? Rheumatoid arthritis is a long-lasting disease that causes swelling and pain in the joints. Unlike common joint pain, this condition happens when the body’s immune system attacks healthy joi...",
+      "bodyText": "What is Rheumatoid Arthritis?\n\nRheumatoid arthritis is a long-lasting disease that causes swelling and pain in the joints. Unlike common joint pain, this condition happens when the body’s immune system attacks healthy joint tissue. Because of this, joints can become stiff, swollen, and painful. Early signs of rheumatoid arthritis often start slowly, so it is important to know what to look for. Recognizing rheumatoid arthritis symptoms early can help you get the right treatment and prevent joint damage.\n\nCommon Symptoms of Rheumatoid Arthritis\n\nMany people wonder about the main signs of this disease. While symptoms can vary, some are seen more often. For example, joint pain and swelling are common. In addition, you may notice other changes in your body. Here are the most frequent rheumatoid arthritis symptoms:\n\nJoint pain, especially in the hands, wrists, or knees\n\nSwelling and warmth around the joints\n\nStiffness, often worse in the morning or after resting\n\nFatigue or feeling very tired\n\nLow-grade fever\n\nLoss of appetite\n\nSometimes, these symptoms can come and go. However, if they last for weeks, it may be a sign of rheumatoid arthritis.\n\nEarly Warning Signs to Watch For\n\nIt is important to spot early signs of rheumatoid arthritis. Early treatment can slow the disease and protect your joints. So, what should you look for? Here are some early warning signs:\n\nStiffness in small joints, like fingers or toes, lasting over an hour in the morning\n\nRedness or warmth in the joints\n\nFeeling tired even after enough rest\n\nUnexplained weight loss\n\nMinor swelling that does not go away\n\nEven if these signs seem mild, they should not be ignored. Early action can make a big difference.\n\nHow Rheumatoid Arthritis Symptoms Progress\n\nAt first, symptoms may be mild and affect only a few joints. Over time, though, the disease can spread to more joints. For instance, pain may start in the fingers and later move to the wrists, knees, or ankles. As the disease gets worse, joints may lose their shape or function. In some cases, people may notice lumps under the skin near the joints. Because symptoms can change, it is important to keep track of any new problems.\n\nWhen to See a Doctor\n\nSometimes, joint pain is caused by other problems. However, if you notice any of the symptoms listed above, it is wise to see a doctor. You should seek help if:\n\nJoint pain or swelling lasts more than a few weeks\n\nStiffness is worse in the morning and lasts over an hour\n\nYou feel tired or unwell for no clear reason\n\nEveryday tasks become hard due to joint pain\n\nDoctors can run tests to find the cause and suggest the best treatment. According to the CDC, early diagnosis can help prevent long-term joint damage.\n\nTips for Managing Symptoms at Home\n\nWhile medical care is important, some home steps can help manage symptoms. For example, you can:\n\nRest your joints when they feel sore\n\nUse cold packs to reduce swelling\n\nTry gentle exercises, like walking or stretching\n\nEat a balanced diet rich in fruits and vegetables\n\nMaintain a healthy weight to ease joint pressure\n\nFollow your doctor’s advice and take medicines as prescribed\n\nRemember, these tips can help, but they do not replace medical care. Always talk to your doctor before starting new activities.\n\nIf you notice any of these symptoms, consult a healthcare specialist for personalized advice. Early care can help you stay active and protect your joints.\n\nNext Tendonitis: Causes, Symptoms, Diagnosis, and Treatment",
+      "sections": [
+        {
+          "heading": "What is Rheumatoid Arthritis?",
+          "paragraphs": [
+            "Rheumatoid arthritis is a long-lasting disease that causes swelling and pain in the joints. Unlike common joint pain, this condition happens when the body’s immune system attacks healthy joint tissue. Because of this, joints can become stiff, swollen, and painful. Early signs of rheumatoid arthritis often start slowly, so it is important to know what to look for. Recognizing rheumatoid arthritis symptoms early can help you get the right treatment and prevent joint damage."
+          ]
+        },
+        {
+          "heading": "Common Symptoms of Rheumatoid Arthritis",
+          "paragraphs": [
+            "Many people wonder about the main signs of this disease. While symptoms can vary, some are seen more often. For example, joint pain and swelling are common. In addition, you may notice other changes in your body. Here are the most frequent rheumatoid arthritis symptoms:",
+            "Joint pain, especially in the hands, wrists, or knees",
+            "Swelling and warmth around the joints",
+            "Stiffness, often worse in the morning or after resting",
+            "Fatigue or feeling very tired",
+            "Low-grade fever",
+            "Loss of appetite",
+            "Sometimes, these symptoms can come and go. However, if they last for weeks, it may be a sign of rheumatoid arthritis."
+          ]
+        },
+        {
+          "heading": "Early Warning Signs to Watch For",
+          "paragraphs": [
+            "It is important to spot early signs of rheumatoid arthritis. Early treatment can slow the disease and protect your joints. So, what should you look for? Here are some early warning signs:",
+            "Stiffness in small joints, like fingers or toes, lasting over an hour in the morning",
+            "Redness or warmth in the joints",
+            "Feeling tired even after enough rest",
+            "Unexplained weight loss",
+            "Minor swelling that does not go away",
+            "Even if these signs seem mild, they should not be ignored. Early action can make a big difference."
+          ]
+        },
+        {
+          "heading": "How Rheumatoid Arthritis Symptoms Progress",
+          "paragraphs": [
+            "At first, symptoms may be mild and affect only a few joints. Over time, though, the disease can spread to more joints. For instance, pain may start in the fingers and later move to the wrists, knees, or ankles. As the disease gets worse, joints may lose their shape or function. In some cases, people may notice lumps under the skin near the joints. Because symptoms can change, it is important to keep track of any new problems."
+          ]
+        },
+        {
+          "heading": "When to See a Doctor",
+          "paragraphs": [
+            "Sometimes, joint pain is caused by other problems. However, if you notice any of the symptoms listed above, it is wise to see a doctor. You should seek help if:",
+            "Joint pain or swelling lasts more than a few weeks",
+            "Stiffness is worse in the morning and lasts over an hour",
+            "You feel tired or unwell for no clear reason",
+            "Everyday tasks become hard due to joint pain",
+            "Doctors can run tests to find the cause and suggest the best treatment. According to the CDC, early diagnosis can help prevent long-term joint damage.",
+            "Tips for Managing Symptoms at Home",
+            "While medical care is important, some home steps can help manage symptoms. For example, you can:",
+            "Rest your joints when they feel sore",
+            "Use cold packs to reduce swelling",
+            "Try gentle exercises, like walking or stretching",
+            "Eat a balanced diet rich in fruits and vegetables",
+            "Maintain a healthy weight to ease joint pressure",
+            "Follow your doctor’s advice and take medicines as prescribed",
+            "Remember, these tips can help, but they do not replace medical care. Always talk to your doctor before starting new activities.",
+            "If you notice any of these symptoms, consult a healthcare specialist for personalized advice. Early care can help you stay active and protect your joints.",
+            "Next Tendonitis: Causes, Symptoms, Diagnosis, and Treatment"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "clean_page_blogs_tendonitis-causes-symptoms-diagnosis-and-treatment_.html.txt",
+      "title": "Tendonitis: Causes, Symptoms, Diagnosis, and Treatment",
+      "image": "assets/images/EN-DRNI-B-OR-CN2301-V1_20251027_174320_v1.jpg",
+      "date": "October 27, 2025",
+      "category": "Sports Medicine & Tendon Care",
+      "readTime": "6 min read",
+      "excerpt": "What is Tendonitis? Tendonitis is a common condition that affects many people. It happens when a tendon, which connects muscle to bone, becomes inflamed or irritated. Because tendons help your body move, tendonitis can c...",
+      "bodyText": "What is Tendonitis?\n\nTendonitis is a common condition that affects many people. It happens when a tendon, which connects muscle to bone, becomes inflamed or irritated. Because tendons help your body move, tendonitis can cause pain and limit movement. Often, this condition affects the shoulders, elbows, wrists, knees, or heels. Early care can help prevent long-term problems. According to the CDC, tendonitis is often caused by overuse or injury.\n\nCommon Causes of Tendonitis\n\nMany things can lead to tendonitis. However, some causes are more common than others. Understanding these can help you avoid the condition. For example, repetitive movements or sudden injuries often trigger tendonitis. In addition, certain sports or jobs increase your risk. Age can also play a role, as tendons lose flexibility over time.\n\nRepetitive motions, such as typing or playing sports\n\nSudden injuries or falls\n\nPoor posture or body mechanics\n\nNot warming up before exercise\n\nAge-related tendon wear and tear\n\nCertain medical conditions, like diabetes or arthritis\n\nSymptoms of Tendonitis\n\nRecognizing tendonitis symptoms early can help you seek treatment quickly. Most people notice pain near a joint. However, other signs may also appear. If you have any of these symptoms, it is important to rest and seek advice.\n\nPain or tenderness near a joint\n\nSwelling or warmth in the area\n\nStiffness, especially in the morning\n\nDifficulty moving the affected joint\n\nMild redness or a feeling of heat\n\nSometimes, symptoms get worse with activity. On the other hand, rest may help reduce pain.\n\nHow is Tendonitis Diagnosed?\n\nDoctors use several steps to diagnose tendonitis. First, they ask about your symptoms and medical history. Next, they examine the affected area. Sometimes, they may order tests to rule out other problems. For example, an X-ray or ultrasound can help check for injuries. In most cases, a physical exam is enough. However, extra tests can confirm the diagnosis if needed.\n\nTreatment Options for Tendonitis\n\nThere are many tendonitis treatment options available. Early treatment can speed up recovery and prevent further injury. Most people start with simple steps at home. However, some may need medical care. According to the CDC and Mayo Clinic, common treatments include:\n\nResting the affected area\n\nApplying ice to reduce swelling\n\nTaking over-the-counter pain relievers\n\nUsing a brace or support\n\nPhysical therapy exercises\n\nIn rare cases, steroid injections or surgery\n\nFor ongoing pain, orthopedic care for tendonitis may be needed. Your doctor can help you choose the best treatment plan.\n\nPrevention and Lifestyle Tips\n\nWhile tendonitis can be painful, you can take steps to prevent it. Making small changes in your daily routine can help protect your tendons. For example, always warm up before exercise. In addition, use proper techniques during sports or work.\n\nStretch before and after activity\n\nTake breaks from repetitive tasks\n\nUse the right equipment and shoes\n\nMaintain good posture\n\nStrengthen muscles around joints\n\nListen to your body and rest when needed\n\nBy following these tips, you can lower your risk and learn how to prevent tendonitis.\n\nWhen to See an Orthopedic Specialist\n\nSometimes, tendonitis does not improve with home care. If pain lasts more than a few days, it is time to see a doctor. In addition, severe swelling, redness, or loss of movement are warning signs. Orthopedic care for tendonitis can help you recover faster and avoid complications. Your specialist may suggest advanced treatments or therapy.\n\nConclusion\n\nTendonitis is a common condition, but early care can make a significant difference. By understanding the causes, symptoms, and treatment options, you can take control of your health. If you experience ongoing pain or difficulty moving a joint, don’t wait. Consult Dr. Nithin Kumar Bejjanki , an orthopedic specialist, for personalized advice on tendonitis\n\nPrevious Recognizing Rheumatoid Arthritis Symptoms: A Guide for the General Public\n\nNext Arthroscopic Bankart Repair: Procedure, Recovery, and Patient Guide",
+      "sections": [
+        {
+          "heading": "What is Tendonitis?",
+          "paragraphs": [
+            "Tendonitis is a common condition that affects many people. It happens when a tendon, which connects muscle to bone, becomes inflamed or irritated. Because tendons help your body move, tendonitis can cause pain and limit movement. Often, this condition affects the shoulders, elbows, wrists, knees, or heels. Early care can help prevent long-term problems. According to the CDC, tendonitis is often caused by overuse or injury."
+          ]
+        },
+        {
+          "heading": "Common Causes of Tendonitis",
+          "paragraphs": [
+            "Many things can lead to tendonitis. However, some causes are more common than others. Understanding these can help you avoid the condition. For example, repetitive movements or sudden injuries often trigger tendonitis. In addition, certain sports or jobs increase your risk. Age can also play a role, as tendons lose flexibility over time.",
+            "Repetitive motions, such as typing or playing sports",
+            "Sudden injuries or falls",
+            "Poor posture or body mechanics",
+            "Not warming up before exercise",
+            "Age-related tendon wear and tear",
+            "Certain medical conditions, like diabetes or arthritis",
+            "Symptoms of Tendonitis",
+            "Recognizing tendonitis symptoms early can help you seek treatment quickly. Most people notice pain near a joint. However, other signs may also appear. If you have any of these symptoms, it is important to rest and seek advice.",
+            "Pain or tenderness near a joint",
+            "Swelling or warmth in the area",
+            "Stiffness, especially in the morning",
+            "Difficulty moving the affected joint",
+            "Mild redness or a feeling of heat",
+            "Sometimes, symptoms get worse with activity. On the other hand, rest may help reduce pain."
+          ]
+        },
+        {
+          "heading": "How is Tendonitis Diagnosed?",
+          "paragraphs": [
+            "Doctors use several steps to diagnose tendonitis. First, they ask about your symptoms and medical history. Next, they examine the affected area. Sometimes, they may order tests to rule out other problems. For example, an X-ray or ultrasound can help check for injuries. In most cases, a physical exam is enough. However, extra tests can confirm the diagnosis if needed."
+          ]
+        },
+        {
+          "heading": "Treatment Options for Tendonitis",
+          "paragraphs": [
+            "There are many tendonitis treatment options available. Early treatment can speed up recovery and prevent further injury. Most people start with simple steps at home. However, some may need medical care. According to the CDC and Mayo Clinic, common treatments include:",
+            "Resting the affected area",
+            "Applying ice to reduce swelling",
+            "Taking over-the-counter pain relievers",
+            "Using a brace or support",
+            "Physical therapy exercises",
+            "In rare cases, steroid injections or surgery",
+            "For ongoing pain, orthopedic care for tendonitis may be needed. Your doctor can help you choose the best treatment plan.",
+            "Prevention and Lifestyle Tips",
+            "While tendonitis can be painful, you can take steps to prevent it. Making small changes in your daily routine can help protect your tendons. For example, always warm up before exercise. In addition, use proper techniques during sports or work.",
+            "Stretch before and after activity",
+            "Take breaks from repetitive tasks",
+            "Use the right equipment and shoes",
+            "Maintain good posture",
+            "Strengthen muscles around joints",
+            "Listen to your body and rest when needed",
+            "By following these tips, you can lower your risk and learn how to prevent tendonitis."
+          ]
+        },
+        {
+          "heading": "When to See an Orthopedic Specialist",
+          "paragraphs": [
+            "Sometimes, tendonitis does not improve with home care. If pain lasts more than a few days, it is time to see a doctor. In addition, severe swelling, redness, or loss of movement are warning signs. Orthopedic care for tendonitis can help you recover faster and avoid complications. Your specialist may suggest advanced treatments or therapy."
+          ]
+        },
+        {
+          "heading": "Conclusion",
+          "paragraphs": [
+            "Tendonitis is a common condition, but early care can make a significant difference. By understanding the causes, symptoms, and treatment options, you can take control of your health. If you experience ongoing pain or difficulty moving a joint, don’t wait. Consult Dr. Nithin Kumar Bejjanki , an orthopedic specialist, for personalized advice on tendonitis",
+            "Previous Recognizing Rheumatoid Arthritis Symptoms: A Guide for the General Public",
+            "Next Arthroscopic Bankart Repair: Procedure, Recovery, and Patient Guide"
+          ]
+        }
+      ]
+    },
+    {
+      "file": "clean_page_blogs_arthroscopic-bankart-repair-procedure-recovery-and-patient-guide_.html.txt",
+      "title": "Arthroscopic Bankart Repair: Procedure, Recovery, and Patient Guide",
+      "image": "assets/images/EN-DRNI-B-OR-CN2301-V2_20251118_125303_v1.jpg",
+      "date": "November 18, 2025",
+      "category": "Shoulder Arthroscopy & Instability",
+      "readTime": "7 min read",
+      "excerpt": "Introduction Arthroscopic Bankart Repair is a minimally invasive shoulder repair. Doctors use it to fix shoulder instability, often after a dislocation. This surgery helps restore strength and prevent future injuries. Ma...",
+      "bodyText": "Introduction\n\nArthroscopic Bankart Repair is a minimally invasive shoulder repair. Doctors use it to fix shoulder instability, often after a dislocation. This surgery helps restore strength and prevent future injuries. Many people choose this option because it uses small cuts and special tools. As a result, recovery is often quicker than with open surgery. In this guide, you will learn about the procedure, recovery, and tips for a healthy shoulder.\n\nWhat is Arthroscopic Bankart Repair?\n\nArthroscopic Bankart Repair is a type of shoulder dislocation surgery. It treats a Bankart lesion, which is a tear in the shoulder’s labrum. The labrum is a ring of cartilage that helps keep the shoulder joint stable. When it tears, the shoulder may slip out of place. This surgery uses a tiny camera and small tools to repair the tear. Because it is minimally invasive, there is less pain and a faster recovery.\n\nSymptoms and Causes of Shoulder Instability\n\nShoulder instability means your shoulder can slip or dislocate easily. This often happens after an injury or repeated strain. Common symptoms include:\n\nPain or aching in the shoulder\n\nA feeling that the shoulder is loose or may pop out\n\nWeakness when lifting or moving the arm\n\nClicking or catching sensations\n\nMost often, a Bankart lesion occurs after a shoulder dislocation. Sports injuries, falls, or accidents can cause this problem. Sometimes, repeated overhead movements, like throwing, can also lead to instability.\n\nHow is the Diagnosis Made?\n\nDoctors use several steps to diagnose shoulder instability and decide if Arthroscopic Bankart Repair is needed. First, they ask about your symptoms and medical history. Next, they perform a physical exam to check for pain, weakness, or looseness. Often, imaging tests help confirm the diagnosis. These may include:\n\nX-rays to check for bone damage\n\nMRI scans to see soft tissues like the labrum\n\nCT scans in some cases for detailed images\n\nAccording to the American Academy of Orthopaedic Surgeons, these steps help doctors plan the best treatment.\n\nStep-by-Step Overview of the Arthroscopic Bankart Repair Procedure\n\nArthroscopic Bankart Repair is a common minimally invasive shoulder repair. Here is what usually happens during the surgery:\n\nYou receive anesthesia to keep you comfortable.\n\nThe surgeon makes small cuts around your shoulder.\n\nA tiny camera (arthroscope) goes into the joint for a clear view.\n\nSpecial tools are used to clean the area and find the tear.\n\nThe surgeon attaches the torn labrum back to the bone using small anchors and stitches.\n\nThe tools and camera are removed, and the cuts are closed with stitches or tape.\n\nThis procedure usually takes one to two hours. Because it is less invasive, most people go home the same day.\n\nRecovery Timeline and What to Expect After Surgery\n\nRecovery after Arthroscopic Bankart Repair takes time, but most people return to normal activities. Here is a general timeline:\n\nFirst week: Your arm will be in a sling. Pain and swelling are common, but medicine helps.\n\nWeeks 2-6: You will start gentle movements with your therapist’s help. The sling stays on most of the time.\n\nWeeks 6-12: You can begin more active exercises. Strength and motion improve slowly.\n\nAfter 3 months: Most daily activities are safe. Sports or heavy lifting may take longer.\n\nAlways follow your doctor’s advice. Recovery times can vary based on your age, health, and the extent of the injury.\n\nTips for Rehabilitation and Lifestyle Adjustments\n\nRehabilitation is key to a strong recovery after Bankart lesion treatment. Here are some helpful tips:\n\nAttend all physical therapy sessions as scheduled.\n\nDo your home exercises every day, as your therapist instructs.\n\nWear your sling as directed to protect your shoulder.\n\nAvoid lifting heavy objects or sudden arm movements.\n\nEat healthy foods to support healing.\n\nGet enough sleep and rest.\n\nWith patience and care, you can regain strength and motion. If you notice new pain or swelling, contact your doctor right away.\n\nPrevention of Future Shoulder Injuries\n\nAfter shoulder dislocation surgery, it is important to protect your joint. Here are some ways to prevent future injuries:\n\nWarm up before sports or exercise.\n\nStrengthen your shoulder muscles with regular exercises.\n\nUse proper techniques when lifting or playing sports.\n\nAvoid activities that strain your shoulder too soon after surgery.\n\nListen to your body and rest when needed.\n\nAccording to the CDC, staying active and strong helps lower the risk of repeat injuries.\n\nConclusion\n\nArthroscopic Bankart Repair is a safe and effective treatment for shoulder instability, allowing most patients to return to their favourite activities with proper care. However, every case is unique, and tailored guidance is essential for the best outcomes.\n\nConsult Dr. Nithin Kumar Bejjanki , an experienced orthopedic specialist, for personalized advice and treatment options for Arthroscopic Bankart Repair.\n\nGet expert care for your shoulder—schedule your consultation today.\n\nPrevious Tendonitis: Causes, Symptoms, Diagnosis, and Treatment",
+      "sections": [
+        {
+          "heading": "Introduction",
+          "paragraphs": [
+            "Introduction",
+            "Arthroscopic Bankart Repair is a minimally invasive shoulder repair. Doctors use it to fix shoulder instability, often after a dislocation. This surgery helps restore strength and prevent future injuries. Many people choose this option because it uses small cuts and special tools. As a result, recovery is often quicker than with open surgery. In this guide, you will learn about the procedure, recovery, and tips for a healthy shoulder."
+          ]
+        },
+        {
+          "heading": "What is Arthroscopic Bankart Repair?",
+          "paragraphs": [
+            "Arthroscopic Bankart Repair is a type of shoulder dislocation surgery. It treats a Bankart lesion, which is a tear in the shoulder’s labrum. The labrum is a ring of cartilage that helps keep the shoulder joint stable. When it tears, the shoulder may slip out of place. This surgery uses a tiny camera and small tools to repair the tear. Because it is minimally invasive, there is less pain and a faster recovery.",
+            "Symptoms and Causes of Shoulder Instability",
+            "Shoulder instability means your shoulder can slip or dislocate easily. This often happens after an injury or repeated strain. Common symptoms include:",
+            "Pain or aching in the shoulder",
+            "A feeling that the shoulder is loose or may pop out",
+            "Weakness when lifting or moving the arm",
+            "Clicking or catching sensations",
+            "Most often, a Bankart lesion occurs after a shoulder dislocation. Sports injuries, falls, or accidents can cause this problem. Sometimes, repeated overhead movements, like throwing, can also lead to instability."
+          ]
+        },
+        {
+          "heading": "How is the Diagnosis Made?",
+          "paragraphs": [
+            "Doctors use several steps to diagnose shoulder instability and decide if Arthroscopic Bankart Repair is needed. First, they ask about your symptoms and medical history. Next, they perform a physical exam to check for pain, weakness, or looseness. Often, imaging tests help confirm the diagnosis. These may include:",
+            "X-rays to check for bone damage",
+            "MRI scans to see soft tissues like the labrum",
+            "CT scans in some cases for detailed images",
+            "According to the American Academy of Orthopaedic Surgeons, these steps help doctors plan the best treatment.",
+            "Step-by-Step Overview of the Arthroscopic Bankart Repair Procedure",
+            "Arthroscopic Bankart Repair is a common minimally invasive shoulder repair. Here is what usually happens during the surgery:",
+            "You receive anesthesia to keep you comfortable.",
+            "The surgeon makes small cuts around your shoulder.",
+            "A tiny camera (arthroscope) goes into the joint for a clear view.",
+            "Special tools are used to clean the area and find the tear.",
+            "The surgeon attaches the torn labrum back to the bone using small anchors and stitches.",
+            "The tools and camera are removed, and the cuts are closed with stitches or tape.",
+            "This procedure usually takes one to two hours. Because it is less invasive, most people go home the same day."
+          ]
+        },
+        {
+          "heading": "Recovery after Arthroscopic Bankart Repair takes time, but most people return to normal activities. Here is a general timeline:",
+          "paragraphs": [
+            "First week: Your arm will be in a sling. Pain and swelling are common, but medicine helps.",
+            "Weeks 2-6: You will start gentle movements with your therapist’s help. The sling stays on most of the time.",
+            "Weeks 6-12: You can begin more active exercises. Strength and motion improve slowly.",
+            "After 3 months: Most daily activities are safe. Sports or heavy lifting may take longer.",
+            "Always follow your doctor’s advice. Recovery times can vary based on your age, health, and the extent of the injury.",
+            "Tips for Rehabilitation and Lifestyle Adjustments",
+            "Rehabilitation is key to a strong recovery after Bankart lesion treatment. Here are some helpful tips:",
+            "Attend all physical therapy sessions as scheduled.",
+            "Do your home exercises every day, as your therapist instructs.",
+            "Wear your sling as directed to protect your shoulder.",
+            "Avoid lifting heavy objects or sudden arm movements.",
+            "Eat healthy foods to support healing.",
+            "Get enough sleep and rest.",
+            "With patience and care, you can regain strength and motion. If you notice new pain or swelling, contact your doctor right away.",
+            "Prevention of Future Shoulder Injuries",
+            "After shoulder dislocation surgery, it is important to protect your joint. Here are some ways to prevent future injuries:",
+            "Warm up before sports or exercise.",
+            "Strengthen your shoulder muscles with regular exercises.",
+            "Use proper techniques when lifting or playing sports.",
+            "Avoid activities that strain your shoulder too soon after surgery.",
+            "Listen to your body and rest when needed.",
+            "According to the CDC, staying active and strong helps lower the risk of repeat injuries."
+          ]
+        },
+        {
+          "heading": "Conclusion",
+          "paragraphs": [
+            "Arthroscopic Bankart Repair is a safe and effective treatment for shoulder instability, allowing most patients to return to their favourite activities with proper care. However, every case is unique, and tailored guidance is essential for the best outcomes.",
+            "Consult Dr. Nithin Kumar Bejjanki , an experienced orthopedic specialist, for personalized advice and treatment options for Arthroscopic Bankart Repair.",
+            "Get expert care for your shoulder—schedule your consultation today.",
+            "Previous Tendonitis: Causes, Symptoms, Diagnosis, and Treatment"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+const { execSync } = require('child_process');
+const fs = require('fs');
+const path = require('path');
+
+const galleryImages = [
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/IMG_3701.jpg', name: 'IMG_3701.jpg', title: 'Dr. Nithin with Sachin Tendulkar', category: 'Celebrities & Athletes', caption: 'Consultation & sports fitness discussion with cricket legend Sachin Tendulkar' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/IMG_3700.jpg', name: 'IMG_3700.jpg', title: 'Dr. Nithin with PV Sindhu', category: 'Celebrities & Athletes', caption: 'With Olympic Medallist PV Sindhu at Yashoda Hospitals Sports Medicine Conference' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-12-at-4.58.02-PM-2.jpeg', name: 'WhatsApp-Image-2025-09-12-at-4.58.02-PM-2.jpeg', title: 'International Faculty Collaboration', category: 'International Conferences', caption: 'Dr. Nithin with international orthopaedic surgery faculty and research delegates' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/scrubs.jpg', name: 'scrubs.jpg', title: 'Operating Theatre & Fluoroscopy', category: 'Surgical Procedures', caption: 'Dr. Nithin in sterile surgical scrubs in the advanced operating suite' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/celeb1.jpg', name: 'celeb1.jpg', title: 'Sports Medicine at Celebrity Cricket', category: 'Celebrities & Athletes', caption: 'Official medical support and athlete management at the celebrity cricket league' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/Copy-of-20150201_123031.jpg', name: 'Copy-of-20150201_123031.jpg', title: 'Dr. Nithin with Suniel Shetty', category: 'Celebrities & Athletes', caption: 'Interacting with Bollywood star and fitness enthusiast Suniel Shetty' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/SAM_2089.jpg', name: 'SAM_2089.jpg', title: 'Rapid Post-Op Rehabilitation', category: 'Patient Recovery', caption: 'Patient confidently climbing stairs independently following minimally invasive joint surgery' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/celeb2.jpg', name: 'celeb2.jpg', title: 'Telugu Warriors Team Physician', category: 'Celebrities & Athletes', caption: 'Dr. Nithin managing pitch-side sports trauma and injury prevention for Telugu Warriors' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/At-Belgium.jpg', name: 'At-Belgium.jpg', title: 'European Fellowship Locker Room', category: 'International Conferences', caption: 'Dr. Nithin with UK & European surgical fellows during international clinical training' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/Arthroscopy-knee.jpg', name: 'Arthroscopy-knee.jpg', title: 'Minimally Invasive Knee Arthroscopy', category: 'Surgical Procedures', caption: 'High-definition 4K keyhole arthroscopy performed in the advanced Yashoda OT' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/1-day-after-knee-replacements.jpg', name: '1-day-after-knee-replacements.jpg', title: '1-Day After Bilateral Knee Surgery', category: 'Patient Recovery', caption: 'Patient mobilized and walking independently just 24 hours after precision knee surgery' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/speech.jpg', name: 'speech.jpg', title: 'Keynote Lecture: Shoulder Injuries in Sports', category: 'Conferences & Academics', caption: 'Dr. Nithin presenting surgical outcomes and arthroscopic techniques at national medical conference' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/coat.jpg', name: 'coat.jpg', title: 'Dr. Nithin at OPD Consultation Desk', category: 'Clinical Consultations', caption: 'In-depth patient consultation and joint mobility assessment at Yashoda Hospitals Secunderabad' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/SAM_2836.jpg', name: 'SAM_2836.jpg', title: 'Dr. Nithin Kumar Bejjanki, FRCS', category: 'Clinical Consultations', caption: 'Professional clinical portrait with diagnostic joint imaging viewbox' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/IMG_3697.jpg', name: 'IMG_3697.jpg', title: 'Yashoda Hospitals Reception & Patient Lounge', category: 'Hospital Facilities', caption: 'State-of-the-art outpatient consultation wing at Yashoda Hospitals Secunderabad' },
+  { url: 'https://drnithin.com/wp-content/uploads/2025/09/IMG_3696.jpg', name: 'IMG_3696.jpg', title: 'Yashoda Hospitals Secunderabad Campus', category: 'Hospital Facilities', caption: 'Exterior view of the premier multi-speciality tertiary care medical center' }
+];
+
+galleryImages.forEach((img, idx) => {
+  const localPath = path.join('assets/images', img.name);
+  if (!fs.existsSync(localPath) || fs.statSync(localPath).size === 0) {
+    console.log(`[${idx+1}/${galleryImages.length}] Downloading ${img.name}...`);
+    try {
+      execSync(`curl.exe -sL -A "Mozilla/5.0" "${img.url}" -o "${localPath}"`);
+      console.log(`Saved ${img.name} (${fs.statSync(localPath).size} bytes)`);
+    } catch (e) {
+      console.error(`Error downloading ${img.url}:`, e.message);
+    }
+  } else {
+    console.log(`Already exists: ${img.name} (${fs.statSync(localPath).size} bytes)`);
+  }
+});
+
+fs.writeFileSync('gallery_data_full.json', JSON.stringify(galleryImages, null, 2));
+console.log('All gallery data saved into gallery_data_full.json');
+
