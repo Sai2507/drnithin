@@ -108,13 +108,14 @@ if (galleryImagesPass) {
 }
 
 // 6. Verify Responsive CSS rules
-console.log("\n[Test 6] Verifying Responsive CSS Breakpoints in index.html...");
-const hasHeroGrid = html.includes(".hero-container-grid");
-const hasHeroVisualOrder1 = html.includes(".hero-visual-col") && html.includes("order: 1 !important");
-const hasHeroCopyOrder2 = html.includes(".hero-copy-col") && html.includes("order: 2 !important");
-const hasNavLogoSubHide = html.includes(".nav-brand-sub") && html.includes("display: none !important");
-const hasNavBookCompact = html.includes(".nav-book-text-short") && html.includes("display: inline !important");
-const hasMobileBtnDesktopHide = html.includes(".mobile-menu-btn") && html.includes("display: none !important");
+console.log("\n[Test 6] Verifying Responsive CSS Breakpoints in index.html & styles.css...");
+const allCssAndHtml = html + (fs.existsSync("styles.css") ? fs.readFileSync("styles.css", "utf8") : "");
+const hasHeroGrid = allCssAndHtml.includes(".hero-container-grid");
+const hasHeroVisualOrder1 = allCssAndHtml.includes(".hero-visual-col") && allCssAndHtml.includes("order: 1 !important");
+const hasHeroCopyOrder2 = allCssAndHtml.includes(".hero-copy-col") && allCssAndHtml.includes("order: 2 !important");
+const hasNavLogoSubHide = allCssAndHtml.includes(".nav-brand-sub") && allCssAndHtml.includes("display: none !important");
+const hasNavBookCompact = allCssAndHtml.includes(".nav-book-text-short") && allCssAndHtml.includes("display: inline !important");
+const hasMobileBtnDesktopHide = allCssAndHtml.includes(".mobile-menu-btn") && allCssAndHtml.includes("display: none !important");
 
 console.log("- Hero Container Grid defined?", hasHeroGrid);
 console.log("- Mobile Hero Visual order 1 (image first)?", hasHeroVisualOrder1);
