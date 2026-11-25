@@ -1,1 +1,8 @@
 scratch/
+node_modules/
+npm-debug.log*
+.npm-cache/
+node_modules/
+npm-debug.log*
+.npm-cache/
+essentials/
